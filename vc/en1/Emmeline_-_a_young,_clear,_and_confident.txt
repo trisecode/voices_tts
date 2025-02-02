@@ -1,0 +1,6 @@
+Name: Emmeline - a young, clear, and confident
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

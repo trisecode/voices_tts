@@ -1,0 +1,6 @@
+Name: Nala - African Female
+Accent: nigerian
+Gender: female
+Age: young
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: Jacqui Griffin
+Accent: australian
+Gender: female
+Age: old
+Category: professional
+Language: en

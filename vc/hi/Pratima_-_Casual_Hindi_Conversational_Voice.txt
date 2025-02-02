@@ -1,0 +1,6 @@
+Name: Pratima - Casual Hindi Conversational Voice
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: hi

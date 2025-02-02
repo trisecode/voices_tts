@@ -1,0 +1,6 @@
+Name: Harry - Proper and Academic
+Accent: british
+Gender: male
+Age: young
+Category: generated
+Language: 

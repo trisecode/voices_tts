@@ -1,0 +1,6 @@
+Name: Paul Henry Smith - gentle, patient, clear
+Accent: american
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

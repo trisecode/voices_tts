@@ -1,0 +1,6 @@
+Name: Chinmay - Calm, Energetic & Relatable 
+Accent: indian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

@@ -1,0 +1,6 @@
+Name: GrandMaester, Game of Thrones
+Accent: british
+Gender: male
+Age: old
+Category: generated
+Language: 

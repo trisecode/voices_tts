@@ -1,0 +1,6 @@
+Name: Rose
+Accent: spanish
+Gender: female
+Age: young
+Category: generated
+Language: 

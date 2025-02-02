@@ -1,0 +1,6 @@
+Name: Adam - Calm, Smart
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: Felix - Smooth German Chaos
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: de

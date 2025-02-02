@@ -1,0 +1,6 @@
+Name: Abigail - arrogant and snobbish
+Accent: british
+Gender: female
+Age: middle_aged
+Category: generated
+Language: 

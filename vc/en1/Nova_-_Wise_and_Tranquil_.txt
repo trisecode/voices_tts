@@ -1,0 +1,6 @@
+Name: Nova - Wise and Tranquil 
+Accent: british
+Gender: female
+Age: old
+Category: generated
+Language: 

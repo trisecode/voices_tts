@@ -1,0 +1,6 @@
+Name: Haseeb - Canadian Narration
+Accent: canadian
+Gender: male
+Age: young
+Category: high_quality
+Language: en

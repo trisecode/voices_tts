@@ -1,0 +1,6 @@
+Name: Bruce Actor
+Accent: american
+Gender: male
+Age: old
+Category: generated
+Language: 

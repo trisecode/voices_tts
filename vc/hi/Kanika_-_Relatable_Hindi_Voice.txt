@@ -1,0 +1,6 @@
+Name: Kanika - Relatable Hindi Voice
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: hi

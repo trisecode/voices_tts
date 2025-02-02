@@ -1,0 +1,6 @@
+Name: Alex -  Professional German Male Voiceover
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: de

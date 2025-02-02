@@ -1,0 +1,6 @@
+Name: Claire
+Accent: south african
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

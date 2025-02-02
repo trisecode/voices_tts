@@ -1,0 +1,6 @@
+Name: Isabel - emotional & lisp
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

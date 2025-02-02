@@ -1,0 +1,6 @@
+Nombre: Screaming George
+Acento: peninsular
+Género: male
+Edad: middle_aged
+Categoría: professional
+Idioma: es

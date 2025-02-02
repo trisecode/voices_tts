@@ -1,0 +1,6 @@
+Name: Riya K. Rao - Hindi Conversational Voice
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: high_quality
+Language: hi

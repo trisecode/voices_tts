@@ -1,0 +1,6 @@
+Name: Michael - A narrator with a buttery-smooth deep voice
+Accent: american
+Gender: male
+Age: old
+Category: generated
+Language: 

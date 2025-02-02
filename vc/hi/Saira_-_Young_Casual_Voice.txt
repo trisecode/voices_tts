@@ -1,0 +1,6 @@
+Name: Saira - Young Casual Voice
+Accent: standard
+Gender: female
+Age: young
+Category: professional
+Language: hi

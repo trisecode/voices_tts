@@ -1,0 +1,6 @@
+Name: Theodore - Oldschool Cool
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

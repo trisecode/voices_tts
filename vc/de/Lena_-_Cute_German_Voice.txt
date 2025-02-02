@@ -1,0 +1,6 @@
+Name: Lena - Cute German Voice
+Accent: standard
+Gender: female
+Age: young
+Category: professional
+Language: de

@@ -1,0 +1,6 @@
+Name: Maxime Lavaud - French young man 
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: fr

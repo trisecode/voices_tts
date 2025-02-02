@@ -1,0 +1,6 @@
+Name: Luna Spencer
+Accent: french
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

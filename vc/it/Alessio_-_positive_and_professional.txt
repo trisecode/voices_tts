@@ -1,0 +1,6 @@
+Name: Alessio - positive and professional
+Accent: 
+Gender: male
+Age: middle_aged
+Category: professional
+Language: it

@@ -1,0 +1,6 @@
+Name: Alexis - chic and cosmopolitan
+Accent: american
+Gender: female
+Age: middle_aged
+Category: generated
+Language: 

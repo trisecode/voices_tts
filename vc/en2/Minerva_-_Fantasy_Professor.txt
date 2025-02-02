@@ -1,0 +1,6 @@
+Name: Minerva - Fantasy Professor
+Accent: british
+Gender: female
+Age: old
+Category: generated
+Language: 

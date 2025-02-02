@@ -1,0 +1,6 @@
+Name: Anna - Calm and pleasant 
+Accent: standard
+Gender: female
+Age: young
+Category: professional
+Language: ru

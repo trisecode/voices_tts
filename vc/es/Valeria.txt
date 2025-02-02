@@ -1,0 +1,6 @@
+Nombre: Valeria
+Acento: argentine
+Género: female
+Edad: middle_aged
+Categoría: professional
+Idioma: es

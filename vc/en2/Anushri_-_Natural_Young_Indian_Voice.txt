@@ -1,0 +1,6 @@
+Name: Anushri - Natural Young Indian Voice
+Accent: indian
+Gender: female
+Age: young
+Category: high_quality
+Language: en

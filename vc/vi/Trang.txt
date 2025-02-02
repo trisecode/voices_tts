@@ -1,0 +1,6 @@
+Name: Trang
+Accent: southern
+Gender: female
+Age: young
+Category: professional
+Language: vi

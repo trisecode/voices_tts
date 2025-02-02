@@ -1,0 +1,6 @@
+Name: Elisabeth - meditative
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

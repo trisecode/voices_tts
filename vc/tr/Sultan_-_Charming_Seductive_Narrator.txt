@@ -1,0 +1,6 @@
+Name: Sultan - Charming, Seductive Narrator
+Accent: istanbul
+Gender: female
+Age: middle_aged
+Category: professional
+Language: tr

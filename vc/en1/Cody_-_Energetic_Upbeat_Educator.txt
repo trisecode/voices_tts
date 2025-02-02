@@ -1,0 +1,6 @@
+Name: Cody - Energetic Upbeat Educator
+Accent: canadian
+Gender: male
+Age: young
+Category: high_quality
+Language: en

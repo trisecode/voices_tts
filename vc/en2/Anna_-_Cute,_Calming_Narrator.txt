@@ -1,0 +1,6 @@
+Name: Anna - Cute, Calming Narrator
+Accent: chinese
+Gender: female
+Age: young
+Category: professional
+Language: en

@@ -1,0 +1,6 @@
+Name: Nigel - Mysterious Intriguing
+Accent: british
+Gender: male
+Age: old
+Category: generated
+Language: 

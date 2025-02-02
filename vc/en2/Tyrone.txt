@@ -1,0 +1,6 @@
+Name: Tyrone
+Accent: indian
+Gender: male
+Age: young
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: Jafar - Deep Narrator
+Accent: modern standard
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: ar

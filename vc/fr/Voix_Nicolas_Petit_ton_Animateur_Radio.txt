@@ -1,0 +1,6 @@
+Name: Voix Nicolas Petit ton Animateur Radio
+Accent: parisian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: fr

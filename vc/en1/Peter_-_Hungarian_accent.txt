@@ -1,0 +1,6 @@
+Name: Peter - Hungarian accent
+Accent: Hungarian
+Gender: male
+Age: young
+Category: professional
+Language: en

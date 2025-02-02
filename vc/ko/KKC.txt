@@ -1,0 +1,6 @@
+Name: KKC
+Accent: seoul
+Gender: male
+Age: young
+Category: professional
+Language: ko

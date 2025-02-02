@@ -1,0 +1,6 @@
+Name: Bart
+Accent: flemish
+Gender: male
+Age: middle_aged
+Category: professional
+Language: nl

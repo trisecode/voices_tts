@@ -1,0 +1,6 @@
+Name: Alisha - Soft and Engaging
+Accent: indian
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

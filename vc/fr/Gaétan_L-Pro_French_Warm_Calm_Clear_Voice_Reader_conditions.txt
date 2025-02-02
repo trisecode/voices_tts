@@ -1,0 +1,6 @@
+Name: Gaétan L-Pro French Warm Calm Clear Voice Reader conditions
+Accent: 
+Gender: male
+Age: middle_aged
+Category: professional
+Language: fr

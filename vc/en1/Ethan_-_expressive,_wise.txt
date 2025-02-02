@@ -1,0 +1,6 @@
+Name: Ethan - expressive, wise
+Accent: british
+Gender: male
+Age: young
+Category: generated
+Language: 

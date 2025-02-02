@@ -1,0 +1,6 @@
+Nombre: Enrique Mondragón
+Acento: mexican
+Género: male
+Edad: middle_aged
+Categoría: high_quality
+Idioma: es

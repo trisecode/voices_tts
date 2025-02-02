@@ -1,0 +1,6 @@
+Name: Belinda - Curious and Soft
+Accent: australian
+Gender: female
+Age: young
+Category: generated
+Language: 

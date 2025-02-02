@@ -1,0 +1,6 @@
+Name: Ryan Kurk
+Accent: american
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: en

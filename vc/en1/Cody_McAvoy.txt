@@ -1,0 +1,6 @@
+Name: Cody McAvoy
+Accent: american
+Gender: male
+Age: young
+Category: professional
+Language: en

@@ -1,0 +1,6 @@
+Name: Burak Yoglu
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: tr

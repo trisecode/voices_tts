@@ -1,0 +1,6 @@
+Nombre: Sara Martin 1
+Acento: peninsular
+Género: female
+Edad: middle_aged
+Categoría: high_quality
+Idioma: es

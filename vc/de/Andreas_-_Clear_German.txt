@@ -1,0 +1,6 @@
+Name: Andreas - Clear German
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: de

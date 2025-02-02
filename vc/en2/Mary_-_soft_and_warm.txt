@@ -1,0 +1,6 @@
+Name: Mary - soft and warm
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

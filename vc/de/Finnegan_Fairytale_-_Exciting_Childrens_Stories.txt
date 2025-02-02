@@ -1,0 +1,6 @@
+Name: Finnegan Fairytale - Exciting Children's Stories
+Accent: standard
+Gender: neutral
+Age: young
+Category: high_quality
+Language: de

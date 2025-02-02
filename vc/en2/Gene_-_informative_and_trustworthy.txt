@@ -1,0 +1,6 @@
+Name: Gene - informative and trustworthy
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: Luna - Well rounded, insightful, charismatic
+Accent: british
+Gender: female
+Age: young
+Category: generated
+Language: 

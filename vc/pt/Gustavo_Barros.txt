@@ -1,0 +1,6 @@
+Name: Gustavo Barros
+Accent: 
+Gender: male
+Age: young
+Category: professional
+Language: pt

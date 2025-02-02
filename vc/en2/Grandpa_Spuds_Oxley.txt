@@ -1,0 +1,6 @@
+Name: Grandpa Spuds Oxley
+Accent: american
+Gender: male
+Age: old
+Category: high_quality
+Language: en

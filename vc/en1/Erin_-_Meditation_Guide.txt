@@ -1,0 +1,6 @@
+Name: Erin - Meditation Guide
+Accent: american
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

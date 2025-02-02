@@ -1,0 +1,6 @@
+Name: Android X.Y. Z. - AI Robot of the Future
+Accent: american
+Gender: male
+Age: young
+Category: professional
+Language: en

@@ -1,0 +1,6 @@
+Name: Andi
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: id

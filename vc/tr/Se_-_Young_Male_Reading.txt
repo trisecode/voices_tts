@@ -1,0 +1,6 @@
+Name: Se - Young Male Reading
+Accent: istanbul
+Gender: male
+Age: young
+Category: professional
+Language: tr

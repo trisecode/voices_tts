@@ -1,0 +1,6 @@
+Nombre: Jose A. del Rio
+Acento: peninsular
+Género: male
+Edad: middle_aged
+Categoría: professional
+Idioma: es

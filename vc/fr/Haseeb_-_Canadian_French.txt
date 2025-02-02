@@ -1,0 +1,6 @@
+Name: Haseeb - Canadian French
+Accent: parisian
+Gender: male
+Age: young
+Category: professional
+Language: fr

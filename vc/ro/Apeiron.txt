@@ -1,0 +1,6 @@
+Name: Apeiron
+Accent: transylvanian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: ro

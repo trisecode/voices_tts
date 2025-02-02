@@ -1,0 +1,6 @@
+Name: Flavio Francisco - Narrative - Brazilian Portuguese
+Accent: brazilian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: pt

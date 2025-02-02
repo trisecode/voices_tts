@@ -1,0 +1,6 @@
+Name: Mona
+Accent: modern standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: ar

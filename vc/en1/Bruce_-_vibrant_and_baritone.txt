@@ -1,0 +1,6 @@
+Name: Bruce - vibrant and baritone
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

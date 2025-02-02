@@ -1,0 +1,6 @@
+Name: Lisa - pleasant
+Accent: indian
+Gender: female
+Age: young
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: Eli - American voice for promos and explainers
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

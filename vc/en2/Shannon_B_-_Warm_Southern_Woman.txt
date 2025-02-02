@@ -1,0 +1,6 @@
+Name: Shannon B - Warm Southern Woman
+Accent: us southern
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

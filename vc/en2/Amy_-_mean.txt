@@ -1,0 +1,6 @@
+Name: Amy - mean
+Accent: american
+Gender: female
+Age: middle_aged
+Category: generated
+Language: 

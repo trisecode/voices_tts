@@ -1,0 +1,6 @@
+Name: Vee - Soft Spoken British Male
+Accent: british
+Gender: male
+Age: young
+Category: professional
+Language: en

@@ -1,0 +1,6 @@
+Name: Meera - Conversational Tamil Voice
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: high_quality
+Language: ta

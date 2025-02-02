@@ -1,0 +1,6 @@
+Name: Danielle - Canadian Narrator
+Accent: canadian
+Gender: female
+Age: young
+Category: high_quality
+Language: en

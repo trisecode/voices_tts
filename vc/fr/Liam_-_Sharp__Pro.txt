@@ -1,0 +1,6 @@
+Name: Liam - Sharp & Pro
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: fr

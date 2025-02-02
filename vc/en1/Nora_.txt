@@ -1,0 +1,6 @@
+Name: Nora 
+Accent: american
+Gender: female
+Age: old
+Category: generated
+Language: 

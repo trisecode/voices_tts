@@ -1,0 +1,6 @@
+Name: Sanna Hartfield Beta 1.0
+Accent: american
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

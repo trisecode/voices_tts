@@ -1,0 +1,6 @@
+Name: Miriam - Casual and Wry
+Accent: australian
+Gender: female
+Age: middle_aged
+Category: generated
+Language: 

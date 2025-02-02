@@ -1,0 +1,6 @@
+Name: Alice - calm and soft narrator
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

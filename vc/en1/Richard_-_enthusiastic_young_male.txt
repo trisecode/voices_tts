@@ -1,0 +1,6 @@
+Name: Richard - enthusiastic young male
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

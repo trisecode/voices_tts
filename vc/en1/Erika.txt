@@ -1,0 +1,6 @@
+Name: Erika
+Accent: african
+Gender: female
+Age: young
+Category: generated
+Language: 

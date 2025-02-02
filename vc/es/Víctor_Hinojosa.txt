@@ -1,0 +1,6 @@
+Nombre: Víctor Hinojosa
+Acento: american
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

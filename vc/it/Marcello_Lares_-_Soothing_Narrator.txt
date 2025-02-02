@@ -1,0 +1,6 @@
+Name: Marcello Lares - Soothing Narrator
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: it

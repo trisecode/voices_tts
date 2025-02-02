@@ -1,0 +1,6 @@
+Name: Tara - Conversational Expressive Voice
+Accent: indian
+Gender: female
+Age: young
+Category: professional
+Language: en

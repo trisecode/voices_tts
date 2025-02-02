@@ -1,0 +1,6 @@
+Name: Brody - Cool, Deep, Chilled
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

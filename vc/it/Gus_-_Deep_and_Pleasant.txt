@@ -1,0 +1,6 @@
+Name: Gus - Deep and Pleasant
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: it

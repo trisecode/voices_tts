@@ -1,0 +1,6 @@
+Name: Max - fast, friendly, and direct
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

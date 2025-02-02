@@ -1,0 +1,6 @@
+Name: David - Serious voice for narration and stories
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: de

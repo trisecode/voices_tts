@@ -1,0 +1,6 @@
+Name: Oscar - Older, Narrative, Epic
+Accent: african
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

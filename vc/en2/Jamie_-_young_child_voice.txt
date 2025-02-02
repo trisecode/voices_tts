@@ -1,0 +1,6 @@
+Name: Jamie - young child voice
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

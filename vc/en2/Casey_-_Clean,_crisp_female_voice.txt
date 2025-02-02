@@ -1,0 +1,6 @@
+Name: Casey - Clean, crisp female voice
+Accent: british
+Gender: female
+Age: young
+Category: professional
+Language: en

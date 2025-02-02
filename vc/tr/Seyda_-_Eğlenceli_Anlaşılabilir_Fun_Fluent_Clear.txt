@@ -1,0 +1,6 @@
+Name: Seyda - Eğlenceli, Anlaşılabilir, Fun, Fluent, Clear
+Accent: istanbul
+Gender: male
+Age: middle_aged
+Category: professional
+Language: tr

@@ -1,0 +1,6 @@
+Name: Adam - deep voice Australian
+Accent: australian
+Gender: neutral
+Age: young
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Nombre: Luis Guary
+Acento: colombian
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

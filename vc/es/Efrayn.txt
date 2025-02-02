@@ -1,0 +1,6 @@
+Nombre: Efrayn
+Acento: peninsular
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

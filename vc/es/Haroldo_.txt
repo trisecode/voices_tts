@@ -1,0 +1,6 @@
+Nombre: Haroldo 
+Acento: latin american
+Género: male
+Edad: old
+Categoría: professional
+Idioma: es

@@ -1,0 +1,6 @@
+Name: Kevin histoire V2
+Accent: parisian
+Gender: male
+Age: young
+Category: professional
+Language: fr

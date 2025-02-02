@@ -1,0 +1,6 @@
+Name: Hamid
+Accent: moroccan
+Gender: male
+Age: young
+Category: professional
+Language: ar

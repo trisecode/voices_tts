@@ -1,0 +1,6 @@
+Name: Coco - French - for E-learning and Tutorial
+Accent: parisian
+Gender: female
+Age: middle_aged
+Category: professional
+Language: fr

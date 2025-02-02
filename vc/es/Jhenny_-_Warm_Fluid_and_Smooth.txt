@@ -1,0 +1,6 @@
+Nombre: Jhenny - Warm, Fluid and Smooth
+Acento: latin american
+Género: female
+Edad: middle_aged
+Categoría: professional
+Idioma: es

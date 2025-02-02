@@ -1,0 +1,6 @@
+Name: Ignacius
+Accent: mazovian
+Gender: male
+Age: young
+Category: professional
+Language: pl

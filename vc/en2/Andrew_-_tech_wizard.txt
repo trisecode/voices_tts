@@ -1,0 +1,6 @@
+Name: Andrew - tech wizard
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

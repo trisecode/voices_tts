@@ -1,0 +1,6 @@
+Name: JaySoft
+Accent: quebec
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: fr

@@ -1,0 +1,6 @@
+Name: Akua
+Accent: nigerian
+Gender: female
+Age: young
+Category: professional
+Language: en

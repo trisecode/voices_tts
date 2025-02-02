@@ -1,0 +1,6 @@
+Name: Brittney - Male Child - Youthful, Raspy, Cute & Excitable 
+Accent: american
+Gender: male
+Age: young
+Category: professional
+Language: en

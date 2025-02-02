@@ -1,0 +1,6 @@
+Name: Tristan Medersburg - Trustworthy Deepness
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

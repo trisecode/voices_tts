@@ -1,0 +1,6 @@
+Name: Conny - Old and Stubborn
+Accent: african
+Gender: female
+Age: old
+Category: generated
+Language: 

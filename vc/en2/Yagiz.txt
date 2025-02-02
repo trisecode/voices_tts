@@ -1,0 +1,6 @@
+Name: Yagiz
+Accent: turkish
+Gender: male
+Age: young
+Category: professional
+Language: en

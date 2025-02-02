@@ -1,0 +1,6 @@
+Name: Amy - Smart Teacher Narration
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

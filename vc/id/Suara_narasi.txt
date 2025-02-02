@@ -1,0 +1,6 @@
+Name: Suara_narasi
+Accent: 
+Gender: male
+Age: middle_aged
+Category: professional
+Language: id

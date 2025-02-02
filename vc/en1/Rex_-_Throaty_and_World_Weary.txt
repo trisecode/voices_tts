@@ -1,0 +1,6 @@
+Name: Rex - Throaty and World Weary
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

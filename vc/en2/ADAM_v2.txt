@@ -1,0 +1,6 @@
+Name: ADAM v2
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

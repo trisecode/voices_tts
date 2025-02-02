@@ -1,0 +1,6 @@
+Name: Wesley Bessa 
+Accent: brazilian
+Gender: male
+Age: young
+Category: professional
+Language: pt

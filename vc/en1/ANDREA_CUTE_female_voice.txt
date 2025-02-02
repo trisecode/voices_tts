@@ -1,0 +1,6 @@
+Name: ANDREA CUTE female voice
+Accent: american
+Gender: female
+Age: middle_aged
+Category: generated
+Language: 

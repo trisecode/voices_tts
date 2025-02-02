@@ -1,0 +1,6 @@
+Name: Guillaume - French voice - Narration and Voiceover
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: fr

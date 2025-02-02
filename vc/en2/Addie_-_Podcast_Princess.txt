@@ -1,0 +1,6 @@
+Name: Addie - Podcast Princess
+Accent: british
+Gender: female
+Age: young
+Category: generated
+Language: 

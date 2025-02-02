@@ -1,0 +1,6 @@
+Name: Oscar
+Accent: british
+Gender: male
+Age: young
+Category: professional
+Language: en

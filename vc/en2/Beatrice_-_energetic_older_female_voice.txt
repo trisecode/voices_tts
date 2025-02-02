@@ -1,0 +1,6 @@
+Name: Beatrice - energetic older female voice
+Accent: american
+Gender: female
+Age: old
+Category: generated
+Language: 

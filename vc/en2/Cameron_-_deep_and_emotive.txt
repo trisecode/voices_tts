@@ -1,0 +1,6 @@
+Name: Cameron - deep and emotive
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

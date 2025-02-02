@@ -1,0 +1,6 @@
+Nombre: Mariluz Parras
+Acento: peninsular
+Género: female
+Edad: old
+Categoría: professional
+Idioma: es

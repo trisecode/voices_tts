@@ -1,0 +1,6 @@
+Name: Fatsis 
+Accent: athenian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: el

@@ -1,0 +1,6 @@
+Name: Klaus -  Young Brazilian Professional Narrator
+Accent: brazilian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: pt

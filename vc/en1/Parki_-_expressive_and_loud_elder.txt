@@ -1,0 +1,6 @@
+Name: Parki - expressive and loud elder
+Accent: african
+Gender: male
+Age: old
+Category: generated
+Language: 

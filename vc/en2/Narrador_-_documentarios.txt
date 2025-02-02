@@ -1,0 +1,6 @@
+Name: Narrador - documentarios
+Accent: portuguese
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

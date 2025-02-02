@@ -1,0 +1,6 @@
+Name: ShanShan - Young, Energetic Female
+Accent: beijing mandarin
+Gender: female
+Age: young
+Category: professional
+Language: zh

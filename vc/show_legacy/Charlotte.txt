@@ -1,0 +1,6 @@
+Name: Charlotte
+Accent: None
+Gender: None
+Age: None
+Category: premade
+Language: None

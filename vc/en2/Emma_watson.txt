@@ -1,0 +1,6 @@
+Name: Emma watson
+Accent: british
+Gender: female
+Age: young
+Category: generated
+Language: 

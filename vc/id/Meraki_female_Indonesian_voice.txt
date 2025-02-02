@@ -1,0 +1,6 @@
+Name: Meraki female Indonesian voice
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: id

@@ -1,0 +1,6 @@
+Nombre: Ginyin
+Acento: 
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

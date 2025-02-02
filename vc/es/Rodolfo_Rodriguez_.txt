@@ -1,0 +1,6 @@
+Nombre: Rodolfo Rodriguez 
+Acento: venezuelan
+Género: male
+Edad: middle_aged
+Categoría: professional
+Idioma: es

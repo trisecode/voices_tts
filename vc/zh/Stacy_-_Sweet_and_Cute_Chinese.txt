@@ -1,0 +1,6 @@
+Name: Stacy - Sweet and Cute Chinese
+Accent: standard
+Gender: female
+Age: young
+Category: professional
+Language: zh

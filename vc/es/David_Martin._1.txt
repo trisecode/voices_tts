@@ -1,0 +1,6 @@
+Nombre: David Martin. 1
+Acento: peninsular
+Género: male
+Edad: young
+Categoría: high_quality
+Idioma: es

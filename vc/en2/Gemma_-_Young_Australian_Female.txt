@@ -1,0 +1,6 @@
+Name: Gemma - Young Australian Female
+Accent: australian
+Gender: female
+Age: young
+Category: professional
+Language: en

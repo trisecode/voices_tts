@@ -1,0 +1,6 @@
+Name: Chris Basetta - Social Media
+Accent: standard
+Gender: male
+Age: young
+Category: high_quality
+Language: it

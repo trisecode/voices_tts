@@ -1,0 +1,6 @@
+Name: German Petra - English with hard accent
+Accent: german
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

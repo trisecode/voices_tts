@@ -1,0 +1,6 @@
+Nombre: Soy Luis Cen
+Acento: latin american
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

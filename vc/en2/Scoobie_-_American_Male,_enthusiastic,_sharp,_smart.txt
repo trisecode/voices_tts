@@ -1,0 +1,6 @@
+Name: Scoobie - American Male, enthusiastic, sharp, smart
+Accent: american
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

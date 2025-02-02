@@ -1,0 +1,6 @@
+Name: Daniel Lappisto
+Accent: indian
+Gender: male
+Age: young
+Category: professional
+Language: en

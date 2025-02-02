@@ -1,0 +1,6 @@
+Name: Patrick - German speaker
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

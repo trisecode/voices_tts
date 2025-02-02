@@ -1,0 +1,6 @@
+Nombre: Leo Kid Spanish- Character
+Acento: peninsular
+Género: neutral
+Edad: young
+Categoría: high_quality
+Idioma: es

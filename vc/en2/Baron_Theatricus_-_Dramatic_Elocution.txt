@@ -1,0 +1,6 @@
+Name: Baron Theatricus - Dramatic Elocution
+Accent: british
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

@@ -1,0 +1,6 @@
+Name: Susanna Rutkai
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: high_quality
+Language: hu

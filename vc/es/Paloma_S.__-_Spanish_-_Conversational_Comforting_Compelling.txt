@@ -1,0 +1,6 @@
+Nombre: Paloma S.  - Spanish - Conversational, Comforting, Compelling
+Acento: latin american
+Género: female
+Edad: middle_aged
+Categoría: professional
+Idioma: es

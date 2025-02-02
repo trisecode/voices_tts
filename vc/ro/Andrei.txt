@@ -1,0 +1,6 @@
+Name: Andrei
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: ro

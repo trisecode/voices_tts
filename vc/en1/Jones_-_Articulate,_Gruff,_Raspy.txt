@@ -1,0 +1,6 @@
+Name: Jones - Articulate, Gruff, Raspy
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

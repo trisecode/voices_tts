@@ -1,0 +1,6 @@
+Name: Kevin
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: Huckleberry - Southern Charm
+Accent: us southern
+Gender: male
+Age: young
+Category: professional
+Language: en

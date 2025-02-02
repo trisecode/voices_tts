@@ -1,0 +1,6 @@
+Nombre: Gabriela Gonzalez 
+Acento: latin american
+Género: female
+Edad: middle_aged
+Categoría: professional
+Idioma: es

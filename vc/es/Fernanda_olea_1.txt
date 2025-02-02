@@ -1,0 +1,6 @@
+Nombre: Fernanda olea 1
+Acento: latin american
+Género: female
+Edad: young
+Categoría: professional
+Idioma: es

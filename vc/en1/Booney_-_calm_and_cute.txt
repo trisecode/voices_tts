@@ -1,0 +1,6 @@
+Name: Booney - calm and cute
+Accent: portuguese
+Gender: female
+Age: young
+Category: generated
+Language: 

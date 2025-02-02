@@ -1,0 +1,6 @@
+Name: Mike Adams - All things space
+Accent: us midwest
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

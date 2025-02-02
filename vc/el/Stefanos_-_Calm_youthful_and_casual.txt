@@ -1,0 +1,6 @@
+Name: Stefanos - Calm, youthful and casual
+Accent: athenian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: el

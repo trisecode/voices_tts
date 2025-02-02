@@ -1,0 +1,6 @@
+Name: Sébastien - French Male
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: fr

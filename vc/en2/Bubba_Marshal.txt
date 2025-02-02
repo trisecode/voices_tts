@@ -1,0 +1,6 @@
+Name: Bubba Marshal
+Accent: us southern
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

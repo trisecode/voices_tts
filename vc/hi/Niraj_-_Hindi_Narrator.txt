@@ -1,0 +1,6 @@
+Name: Niraj - Hindi Narrator
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: hi

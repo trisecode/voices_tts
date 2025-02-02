@@ -1,0 +1,6 @@
+Name: Johannes - Norwegian - Upbeat
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: no

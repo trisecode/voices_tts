@@ -1,0 +1,6 @@
+Name: Stephanie P - Casual, feminine, great for storytelling
+Accent: american
+Gender: female
+Age: young
+Category: professional
+Language: en

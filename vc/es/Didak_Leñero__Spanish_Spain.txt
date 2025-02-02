@@ -1,0 +1,6 @@
+Nombre: Didak Leñero | Spanish (Spain)
+Acento: peninsular
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

@@ -1,0 +1,6 @@
+Name: Takis - native Greek male
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: el

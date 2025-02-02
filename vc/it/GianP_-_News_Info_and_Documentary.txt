@@ -1,0 +1,6 @@
+Name: GianP - News Info and Documentary
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: it

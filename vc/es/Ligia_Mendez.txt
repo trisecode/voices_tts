@@ -1,0 +1,6 @@
+Nombre: Ligia Mendez
+Acento: american
+Género: female
+Edad: middle_aged
+Categoría: professional
+Idioma: es

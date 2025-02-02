@@ -1,0 +1,6 @@
+Name: Marcus KvE – German Voice Over
+Accent: 
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

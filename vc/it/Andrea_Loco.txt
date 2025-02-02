@@ -1,0 +1,6 @@
+Name: Andrea Loco
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: it

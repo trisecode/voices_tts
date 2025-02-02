@@ -1,0 +1,6 @@
+Name: Tyler Kurk
+Accent: american
+Gender: male
+Age: young
+Category: high_quality
+Language: en

@@ -1,0 +1,6 @@
+Name: Tony
+Accent: prague
+Gender: male
+Age: young
+Category: professional
+Language: cs

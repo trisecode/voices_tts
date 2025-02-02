@@ -1,0 +1,6 @@
+Name: Hannah - soft-spoken
+Accent: african
+Gender: female
+Age: middle_aged
+Category: generated
+Language: 

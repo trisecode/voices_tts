@@ -1,0 +1,6 @@
+Name: Heidi factual (Standard German - with Swiss Accent)
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: de

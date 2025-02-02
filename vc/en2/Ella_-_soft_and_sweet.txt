@@ -1,0 +1,6 @@
+Name: Ella - soft and sweet
+Accent: british
+Gender: female
+Age: young
+Category: generated
+Language: 

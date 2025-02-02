@@ -1,0 +1,6 @@
+Name: Gault - Youngish, excitable, high-strung.
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

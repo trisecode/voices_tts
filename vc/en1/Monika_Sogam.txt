@@ -1,0 +1,6 @@
+Name: Monika Sogam
+Accent: indian
+Gender: female
+Age: young
+Category: high_quality
+Language: en

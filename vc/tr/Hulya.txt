@@ -1,0 +1,6 @@
+Name: Hulya
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: tr

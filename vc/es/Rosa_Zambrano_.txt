@@ -1,0 +1,6 @@
+Nombre: Rosa Zambrano 
+Acento: latin american
+Género: female
+Edad: young
+Categoría: professional
+Idioma: es

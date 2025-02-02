@@ -1,0 +1,6 @@
+Name: Martin Jung
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: de

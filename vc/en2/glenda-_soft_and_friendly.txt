@@ -1,0 +1,6 @@
+Name: glenda- soft and friendly
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

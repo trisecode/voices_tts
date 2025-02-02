@@ -1,0 +1,6 @@
+Name: THE PROTOTYPE LIVE aka Ana Daugherty
+Accent: american
+Gender: female
+Age: young
+Category: professional
+Language: en

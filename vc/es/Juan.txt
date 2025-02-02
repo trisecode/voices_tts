@@ -1,0 +1,6 @@
+Nombre: Juan
+Acento: mexican
+Género: male
+Edad: middle_aged
+Categoría: professional
+Idioma: es

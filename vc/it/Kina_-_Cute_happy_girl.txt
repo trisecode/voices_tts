@@ -1,0 +1,6 @@
+Name: Kina - Cute happy girl
+Accent: standard
+Gender: female
+Age: young
+Category: professional
+Language: it

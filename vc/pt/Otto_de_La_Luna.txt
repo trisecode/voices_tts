@@ -1,0 +1,6 @@
+Name: Otto de La Luna
+Accent: brazilian
+Gender: male
+Age: young
+Category: professional
+Language: pt

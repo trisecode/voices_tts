@@ -1,0 +1,6 @@
+Name: Romain - Lecture
+Accent: swiss
+Gender: male
+Age: middle_aged
+Category: professional
+Language: fr

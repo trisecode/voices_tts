@@ -1,0 +1,6 @@
+Name: Elisa
+Accent: us northeast
+Gender: female
+Age: young
+Category: generated
+Language: 

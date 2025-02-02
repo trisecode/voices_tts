@@ -1,0 +1,6 @@
+Name: Nipunn - Deep Hindi voice
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: hi

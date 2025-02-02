@@ -1,0 +1,6 @@
+Name: Mademoiselle French - For Conversational
+Accent: parisian
+Gender: female
+Age: middle_aged
+Category: professional
+Language: fr

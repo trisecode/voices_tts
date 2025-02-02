@@ -1,0 +1,6 @@
+Name: Lea
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: high_quality
+Language: de

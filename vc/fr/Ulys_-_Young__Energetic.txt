@@ -1,0 +1,6 @@
+Name: Ulys - Young & Energetic
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: fr

@@ -1,0 +1,6 @@
+Name: Shayne - Narrator, RJ Voice
+Accent: indian
+Gender: male
+Age: old
+Category: high_quality
+Language: en

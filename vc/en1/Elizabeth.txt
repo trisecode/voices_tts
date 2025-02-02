@@ -1,0 +1,6 @@
+Name: Elizabeth
+Accent: british
+Gender: female
+Age: young
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: Yash A Malhotra - Warm & Friendly Hindi Voice
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: hi

@@ -1,0 +1,6 @@
+Name: Kellan - soft and gentle
+Accent: african
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

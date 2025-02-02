@@ -1,0 +1,6 @@
+Name: Ayesha - Energetic Indian Voice
+Accent: indian
+Gender: female
+Age: middle_aged
+Category: high_quality
+Language: en

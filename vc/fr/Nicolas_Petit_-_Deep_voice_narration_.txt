@@ -1,0 +1,6 @@
+Name: Nicolas Petit - Deep voice narration 
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: fr

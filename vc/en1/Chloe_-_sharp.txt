@@ -1,0 +1,6 @@
+Name: Chloe - sharp
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

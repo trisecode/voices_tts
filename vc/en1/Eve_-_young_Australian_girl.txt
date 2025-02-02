@@ -1,0 +1,6 @@
+Name: Eve - young Australian girl
+Accent: australian
+Gender: female
+Age: young
+Category: generated
+Language: 

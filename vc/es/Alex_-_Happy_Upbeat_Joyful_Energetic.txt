@@ -1,0 +1,6 @@
+Nombre: Alex - Happy Upbeat Joyful Energetic
+Acento: mexican
+Género: male
+Edad: middle_aged
+Categoría: professional
+Idioma: es

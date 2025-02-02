@@ -1,0 +1,6 @@
+Nombre: Eduardo M. - Mexican Spanish
+Acento: mexican
+Género: male
+Edad: middle_aged
+Categoría: professional
+Idioma: es

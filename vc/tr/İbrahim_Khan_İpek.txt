@@ -1,0 +1,6 @@
+Name: İbrahim Khan İpek
+Accent: istanbul
+Gender: male
+Age: middle_aged
+Category: professional
+Language: tr

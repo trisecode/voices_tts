@@ -1,0 +1,6 @@
+Name: Nicola
+Accent: american
+Gender: neutral
+Age: young
+Category: generated
+Language: 

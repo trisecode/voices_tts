@@ -1,0 +1,6 @@
+Name: Prinz Pricklig - Whispering Sparkling and Crisp 
+Accent: standard
+Gender: male
+Age: young
+Category: high_quality
+Language: de

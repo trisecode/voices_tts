@@ -1,0 +1,6 @@
+Name: John Fernandes - Vibrant British Voice
+Accent: british
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

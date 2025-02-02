@@ -1,0 +1,6 @@
+Nombre: Erika - Raspy and Pleasant
+Acento: mexican
+Género: female
+Edad: middle_aged
+Categoría: professional
+Idioma: es

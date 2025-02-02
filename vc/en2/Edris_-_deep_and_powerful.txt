@@ -1,0 +1,6 @@
+Name: Edris - deep and powerful
+Accent: african
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

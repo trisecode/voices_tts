@@ -1,0 +1,6 @@
+Name: Cornelia 
+Accent: standard
+Gender: female
+Age: young
+Category: professional
+Language: de

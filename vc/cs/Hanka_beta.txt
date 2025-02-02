@@ -1,0 +1,6 @@
+Name: Hanka (beta)
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: cs

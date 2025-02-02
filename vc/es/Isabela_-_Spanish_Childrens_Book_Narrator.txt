@@ -1,0 +1,6 @@
+Nombre: Isabela - Spanish Children's Book Narrator
+Acento: latin american
+Género: female
+Edad: middle_aged
+Categoría: professional
+Idioma: es

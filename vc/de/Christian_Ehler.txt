@@ -1,0 +1,6 @@
+Name: Christian Ehler
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: de

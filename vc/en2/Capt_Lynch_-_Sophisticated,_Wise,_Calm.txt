@@ -1,0 +1,6 @@
+Name: Capt Lynch - Sophisticated, Wise, Calm
+Accent: british
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: Luka
+Accent: brazilian
+Gender: male
+Age: young
+Category: professional
+Language: pt

@@ -1,0 +1,6 @@
+Name: Vihan Ahuja - Friendly Hindi Voice
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: hi

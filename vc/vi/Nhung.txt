@@ -1,0 +1,6 @@
+Name: Nhung
+Accent: northern
+Gender: female
+Age: middle_aged
+Category: professional
+Language: vi

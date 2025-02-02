@@ -1,0 +1,6 @@
+Name: Jakobi - Emotive and Intriguing
+Accent: british
+Gender: male
+Age: young
+Category: generated
+Language: 

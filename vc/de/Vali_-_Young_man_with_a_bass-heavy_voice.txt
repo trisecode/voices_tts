@@ -1,0 +1,6 @@
+Name: Vali - Young man with a bass-heavy voice
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: de

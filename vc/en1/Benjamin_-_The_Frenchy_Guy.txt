@@ -1,0 +1,6 @@
+Name: Benjamin - The Frenchy Guy
+Accent: french
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

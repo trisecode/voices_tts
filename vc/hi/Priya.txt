@@ -1,0 +1,6 @@
+Name: Priya
+Accent: indian
+Gender: female
+Age: young
+Category: professional
+Language: hi

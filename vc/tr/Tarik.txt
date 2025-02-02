@@ -1,0 +1,6 @@
+Name: Tarik
+Accent: istanbul
+Gender: male
+Age: young
+Category: professional
+Language: tr

@@ -1,0 +1,6 @@
+Name: Aaron Sage - Friendly & Conversational 
+Accent: american
+Gender: male
+Age: young
+Category: high_quality
+Language: en

@@ -1,0 +1,6 @@
+Name: John Adams
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

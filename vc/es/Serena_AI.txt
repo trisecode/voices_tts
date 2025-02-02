@@ -1,0 +1,6 @@
+Nombre: Serena AI
+Acento: colombian
+Género: female
+Edad: young
+Categoría: professional
+Idioma: es

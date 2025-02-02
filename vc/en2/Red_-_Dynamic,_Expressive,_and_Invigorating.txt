@@ -1,0 +1,6 @@
+Name: Red - Dynamic, Expressive, and Invigorating
+Accent: british
+Gender: male
+Age: young
+Category: generated
+Language: 

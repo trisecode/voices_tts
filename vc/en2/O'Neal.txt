@@ -1,0 +1,6 @@
+Name: O'Neal
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

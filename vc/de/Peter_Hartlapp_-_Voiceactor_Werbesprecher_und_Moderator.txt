@@ -1,0 +1,6 @@
+Name: Peter Hartlapp - Voiceactor (Werbesprecher und Moderator)
+Accent: standard
+Gender: male
+Age: old
+Category: professional
+Language: de

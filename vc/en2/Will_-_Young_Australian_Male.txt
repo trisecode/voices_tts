@@ -1,0 +1,6 @@
+Name: Will - Young Australian Male
+Accent: australian
+Gender: male
+Age: young
+Category: high_quality
+Language: en

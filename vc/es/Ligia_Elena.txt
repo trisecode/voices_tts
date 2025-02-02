@@ -1,0 +1,6 @@
+Nombre: Ligia Elena
+Acento: venezuelan
+Género: 
+Edad: middle_aged
+Categoría: professional
+Idioma: es

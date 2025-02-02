@@ -1,0 +1,6 @@
+Name: Donny - Real New Yorker
+Accent: new york
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

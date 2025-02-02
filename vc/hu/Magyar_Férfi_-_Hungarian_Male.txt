@@ -1,0 +1,6 @@
+Name: Magyar Férfi - Hungarian Male
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: hu

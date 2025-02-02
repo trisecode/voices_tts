@@ -1,0 +1,6 @@
+Nombre: CRISTINA VOICE
+Acento: 
+Género: female
+Edad: young
+Categoría: professional
+Idioma: es

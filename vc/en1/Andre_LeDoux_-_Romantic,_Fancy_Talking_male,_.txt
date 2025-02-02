@@ -1,0 +1,6 @@
+Name: Andre LeDoux - Romantic, Fancy Talking male, 
+Accent: american
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

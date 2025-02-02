@@ -1,0 +1,6 @@
+Name: Jonah - sassy young male
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

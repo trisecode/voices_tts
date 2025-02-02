@@ -1,0 +1,6 @@
+Name: Cole - Gritty-Rough-Strong
+Accent: american
+Gender: male
+Age: old
+Category: professional
+Language: en

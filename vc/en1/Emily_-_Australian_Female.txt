@@ -1,0 +1,6 @@
+Name: Emily - Australian Female
+Accent: australian
+Gender: female
+Age: middle_aged
+Category: high_quality
+Language: en

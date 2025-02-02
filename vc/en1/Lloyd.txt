@@ -1,0 +1,6 @@
+Name: Lloyd
+Accent: british
+Gender: male
+Age: old
+Category: generated
+Language: 

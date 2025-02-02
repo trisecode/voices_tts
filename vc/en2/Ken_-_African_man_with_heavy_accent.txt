@@ -1,0 +1,6 @@
+Name: Ken - African man with heavy accent
+Accent: nigerian
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

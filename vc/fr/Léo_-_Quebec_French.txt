@@ -1,0 +1,6 @@
+Name: Léo - Quebec French
+Accent: quebec
+Gender: male
+Age: middle_aged
+Category: professional
+Language: fr

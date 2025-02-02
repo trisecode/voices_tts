@@ -1,0 +1,6 @@
+Nombre: Guillermo Brazález - Dynamic & Cheerful
+Acento: peninsular
+Género: male
+Edad: middle_aged
+Categoría: professional
+Idioma: es

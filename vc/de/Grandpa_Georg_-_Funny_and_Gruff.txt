@@ -1,0 +1,6 @@
+Name: Grandpa Georg - Funny and Gruff
+Accent: standard
+Gender: male
+Age: old
+Category: professional
+Language: de

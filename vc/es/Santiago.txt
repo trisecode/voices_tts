@@ -1,0 +1,6 @@
+Nombre: Santiago
+Acento: 
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

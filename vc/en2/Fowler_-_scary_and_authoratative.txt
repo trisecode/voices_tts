@@ -1,0 +1,6 @@
+Name: Fowler - scary and authoratative
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

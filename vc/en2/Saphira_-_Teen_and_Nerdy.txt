@@ -1,0 +1,6 @@
+Name: Saphira - Teen and Nerdy
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

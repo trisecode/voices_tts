@@ -1,0 +1,6 @@
+Name: Dmitry
+Accent: 
+Gender: male
+Age: young
+Category: professional
+Language: ru

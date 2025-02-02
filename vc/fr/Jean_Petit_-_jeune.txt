@@ -1,0 +1,6 @@
+Name: Jean Petit - jeune
+Accent: standard
+Gender: male
+Age: young
+Category: high_quality
+Language: fr

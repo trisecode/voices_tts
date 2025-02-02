@@ -1,0 +1,6 @@
+Name: Zoe - emphatic and pleasant
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

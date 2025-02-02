@@ -1,0 +1,6 @@
+Name: Jina
+Accent: 
+Gender: female
+Age: middle_aged
+Category: professional
+Language: ko

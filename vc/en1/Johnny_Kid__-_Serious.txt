@@ -1,0 +1,6 @@
+Name: Johnny Kid  - Serious
+Accent: british
+Gender: male
+Age: young
+Category: high_quality
+Language: en

@@ -1,0 +1,6 @@
+Name: Conversational Joe - A chatty casual voice, British RP male
+Accent: british
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

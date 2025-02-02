@@ -1,0 +1,6 @@
+Name: KKC - Guided Meditation & Narration
+Accent: standard
+Gender: 
+Age: young
+Category: professional
+Language: ko

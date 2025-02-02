@@ -1,0 +1,6 @@
+Name: Recep Arkiş 
+Accent: american
+Gender: male
+Age: young
+Category: professional
+Language: tr

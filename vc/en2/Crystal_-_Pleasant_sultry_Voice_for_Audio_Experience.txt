@@ -1,0 +1,6 @@
+Name: Crystal - Pleasant sultry Voice for Audio Experience
+Accent: american
+Gender: female
+Age: young
+Category: professional
+Language: en

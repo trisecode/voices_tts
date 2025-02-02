@@ -1,0 +1,6 @@
+Name: Oceano - A very young narrator
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: it

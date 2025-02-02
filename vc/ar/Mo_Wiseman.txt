@@ -1,0 +1,6 @@
+Name: Mo Wiseman
+Accent: modern standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: ar

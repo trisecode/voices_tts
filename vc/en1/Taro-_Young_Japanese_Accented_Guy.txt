@@ -1,0 +1,6 @@
+Name: Taro- Young Japanese Accented Guy
+Accent: japanese
+Gender: male
+Age: young
+Category: professional
+Language: en

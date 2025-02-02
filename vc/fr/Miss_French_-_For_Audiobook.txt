@@ -1,0 +1,6 @@
+Name: Miss French - For Audiobook
+Accent: parisian
+Gender: female
+Age: middle_aged
+Category: professional
+Language: fr

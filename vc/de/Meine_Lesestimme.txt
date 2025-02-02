@@ -1,0 +1,6 @@
+Name: Meine Lesestimme
+Accent: 
+Gender: male
+Age: young
+Category: professional
+Language: de

@@ -1,0 +1,6 @@
+Name: Manuel Formateur - Français
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: fr

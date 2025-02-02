@@ -1,0 +1,6 @@
+Name: Daniel DaFraVe Whisper. ASMR. Meditation. Relaxing
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

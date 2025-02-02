@@ -1,0 +1,6 @@
+Name: Sanna Hartfield - Sassy Swedish 
+Accent: stockholm
+Gender: female
+Age: middle_aged
+Category: high_quality
+Language: sv

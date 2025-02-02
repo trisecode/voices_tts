@@ -1,0 +1,6 @@
+Nombre: Alejandro Aragon
+Acento: latin american
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

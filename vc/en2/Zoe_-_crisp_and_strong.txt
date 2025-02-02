@@ -1,0 +1,6 @@
+Name: Zoe - crisp and strong
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

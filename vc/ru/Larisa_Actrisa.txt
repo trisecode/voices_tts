@@ -1,0 +1,6 @@
+Name: Larisa Actrisa
+Accent: standard
+Gender: female
+Age: young
+Category: professional
+Language: ru

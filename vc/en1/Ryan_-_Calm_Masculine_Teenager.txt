@@ -1,0 +1,6 @@
+Name: Ryan - Calm Masculine Teenager
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

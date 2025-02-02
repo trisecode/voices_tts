@@ -1,0 +1,6 @@
+Name: Mahidevran - Playful, Clear, Powerful Narrator
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: high_quality
+Language: tr

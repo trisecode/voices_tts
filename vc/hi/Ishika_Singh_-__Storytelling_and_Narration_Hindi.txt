@@ -1,0 +1,6 @@
+Name: Ishika Singh -  Storytelling and Narration Hindi
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: hi

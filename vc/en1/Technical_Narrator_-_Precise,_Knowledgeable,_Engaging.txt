@@ -1,0 +1,6 @@
+Name: Technical Narrator - Precise, Knowledgeable, Engaging
+Accent: british
+Gender: male
+Age: young
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: Yuan - emotional, artist, poem, romantic, sensible
+Accent: american
+Gender: male
+Age: young
+Category: professional
+Language: en

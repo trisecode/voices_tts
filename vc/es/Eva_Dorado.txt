@@ -1,0 +1,6 @@
+Nombre: Eva Dorado
+Acento: peninsular
+Género: female
+Edad: middle_aged
+Categoría: professional
+Idioma: es

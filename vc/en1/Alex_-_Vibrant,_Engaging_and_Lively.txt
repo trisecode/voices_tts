@@ -1,0 +1,6 @@
+Name: Alex - Vibrant, Engaging and Lively
+Accent: french
+Gender: male
+Age: young
+Category: professional
+Language: en

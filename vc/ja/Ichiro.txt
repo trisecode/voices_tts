@@ -1,0 +1,6 @@
+Name: Ichiro
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: ja

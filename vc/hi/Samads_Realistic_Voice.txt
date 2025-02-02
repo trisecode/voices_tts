@@ -1,0 +1,6 @@
+Name: Samad's Realistic Voice
+Accent: indian
+Gender: male
+Age: young
+Category: professional
+Language: hi

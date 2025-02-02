@@ -1,0 +1,6 @@
+Name: Parveen - Hindi
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: hi

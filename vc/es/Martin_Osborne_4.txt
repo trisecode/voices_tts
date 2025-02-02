@@ -1,0 +1,6 @@
+Nombre: Martin Osborne 4
+Acento: peninsular
+Género: male
+Edad: middle_aged
+Categoría: high_quality
+Idioma: es

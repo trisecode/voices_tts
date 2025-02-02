@@ -1,0 +1,6 @@
+Name: Antonio Farina - Italian PRO Talent - Audiobook, Narration
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: it

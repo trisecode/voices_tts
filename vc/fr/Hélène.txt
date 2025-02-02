@@ -1,0 +1,6 @@
+Name: Hélène
+Accent: 
+Gender: female
+Age: middle_aged
+Category: professional
+Language: fr

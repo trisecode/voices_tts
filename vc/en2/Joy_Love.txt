@@ -1,0 +1,6 @@
+Name: Joy Love
+Accent: african
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

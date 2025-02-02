@@ -1,0 +1,6 @@
+Name: Vivian - knowledgeable voice  
+Accent: british
+Gender: female
+Age: old
+Category: generated
+Language: 

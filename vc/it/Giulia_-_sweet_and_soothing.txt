@@ -1,0 +1,6 @@
+Name: Giulia - sweet and soothing
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: it

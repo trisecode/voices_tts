@@ -1,0 +1,6 @@
+Name: Mademoiselle French - for Institutional Video
+Accent: parisian
+Gender: female
+Age: middle_aged
+Category: high_quality
+Language: fr

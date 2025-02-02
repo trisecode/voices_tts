@@ -1,0 +1,6 @@
+Name: Lily Wolff - Expressive, Clear, Youthful, Calming
+Accent: american
+Gender: female
+Age: young
+Category: professional
+Language: en

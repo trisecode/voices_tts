@@ -1,0 +1,6 @@
+Name: Christophe Géradon (Belge)
+Accent: belgian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: fr

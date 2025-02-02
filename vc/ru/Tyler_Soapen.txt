@@ -1,0 +1,6 @@
+Name: Tyler Soapen
+Accent: 
+Gender: male
+Age: middle_aged
+Category: professional
+Language: ru

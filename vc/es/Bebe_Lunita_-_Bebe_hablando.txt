@@ -1,0 +1,6 @@
+Nombre: Bebe Lunita - Bebe hablando
+Acento: 
+Género: female
+Edad: young
+Categoría: professional
+Idioma: es

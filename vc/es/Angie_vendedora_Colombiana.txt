@@ -1,0 +1,6 @@
+Nombre: Angie vendedora Colombiana
+Acento: latin american
+Género: female
+Edad: young
+Categoría: professional
+Idioma: es

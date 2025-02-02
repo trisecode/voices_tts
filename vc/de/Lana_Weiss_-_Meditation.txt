@@ -1,0 +1,6 @@
+Name: Lana Weiss - Meditation
+Accent: standard
+Gender: female
+Age: young
+Category: high_quality
+Language: de

@@ -1,0 +1,6 @@
+Name: Amina - regal
+Accent: african
+Gender: female
+Age: middle_aged
+Category: generated
+Language: 

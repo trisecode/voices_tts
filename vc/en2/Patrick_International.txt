@@ -1,0 +1,6 @@
+Name: Patrick International
+Accent: australian
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: en

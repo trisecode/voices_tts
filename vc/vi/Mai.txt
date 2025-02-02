@@ -1,0 +1,6 @@
+Name: Mai
+Accent: southern
+Gender: female
+Age: middle_aged
+Category: professional
+Language: vi

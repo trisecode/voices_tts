@@ -1,0 +1,6 @@
+Name: Kelly - clear teen voice
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

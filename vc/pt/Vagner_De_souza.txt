@@ -1,0 +1,6 @@
+Name: Vagner De souza
+Accent: brazilian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: pt

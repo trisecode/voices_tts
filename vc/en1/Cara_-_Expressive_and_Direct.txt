@@ -1,0 +1,6 @@
+Name: Cara - Expressive and Direct
+Accent: british
+Gender: female
+Age: old
+Category: generated
+Language: 

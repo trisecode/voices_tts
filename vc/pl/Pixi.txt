@@ -1,0 +1,6 @@
+Name: Pixi
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: pl

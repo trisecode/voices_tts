@@ -1,0 +1,6 @@
+Name: Onur Can
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: tr

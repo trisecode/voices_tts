@@ -1,0 +1,6 @@
+Name: Winston: Authoritative British Man
+Accent: british
+Gender: male
+Age: young
+Category: generated
+Language: 

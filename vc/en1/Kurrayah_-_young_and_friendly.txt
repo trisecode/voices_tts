@@ -1,0 +1,6 @@
+Name: Kurrayah - young and friendly
+Accent: african
+Gender: female
+Age: young
+Category: generated
+Language: 

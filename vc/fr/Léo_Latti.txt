@@ -1,0 +1,6 @@
+Name: Léo Latti
+Accent: 
+Gender: male
+Age: middle_aged
+Category: professional
+Language: fr

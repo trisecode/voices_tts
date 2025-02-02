@@ -1,0 +1,6 @@
+Name: Bill -  A deep voice narrator
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

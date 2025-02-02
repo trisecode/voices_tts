@@ -1,0 +1,6 @@
+Name: Luv - Hindi Storytelling Voice
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: hi

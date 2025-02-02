@@ -1,0 +1,6 @@
+Name: Florence - Mature Educated
+Accent: british
+Gender: female
+Age: old
+Category: generated
+Language: 

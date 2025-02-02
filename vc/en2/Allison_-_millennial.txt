@@ -1,0 +1,6 @@
+Name: Allison - millennial
+Accent: american
+Gender: female
+Age: young
+Category: high_quality
+Language: en

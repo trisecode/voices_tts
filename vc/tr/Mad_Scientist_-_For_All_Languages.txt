@@ -1,0 +1,6 @@
+Name: Mad Scientist - For All Languages
+Accent: standard
+Gender: male
+Age: young
+Category: high_quality
+Language: tr

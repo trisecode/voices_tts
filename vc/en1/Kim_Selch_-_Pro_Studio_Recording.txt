@@ -1,0 +1,6 @@
+Name: Kim Selch - Pro Studio Recording
+Accent: american
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: en

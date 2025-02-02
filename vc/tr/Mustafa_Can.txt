@@ -1,0 +1,6 @@
+Name: Mustafa Can
+Accent: istanbul
+Gender: male
+Age: young
+Category: professional
+Language: tr

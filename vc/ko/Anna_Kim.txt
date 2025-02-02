@@ -1,0 +1,6 @@
+Name: Anna Kim
+Accent: seoul
+Gender: female
+Age: young
+Category: professional
+Language: ko

@@ -1,0 +1,6 @@
+Name: Bogdan - Soft Male Narration
+Accent: german
+Gender: male
+Age: young
+Category: professional
+Language: en

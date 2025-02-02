@@ -1,0 +1,6 @@
+Name: Whimsy - Kid's Cartoon Character
+Accent: american
+Gender: neutral
+Age: middle_aged
+Category: professional
+Language: en

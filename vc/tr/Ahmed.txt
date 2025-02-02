@@ -1,0 +1,6 @@
+Name: Ahmed
+Accent: british
+Gender: male
+Age: young
+Category: professional
+Language: tr

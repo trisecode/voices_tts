@@ -1,0 +1,6 @@
+Name: Aaron - Narration Voice: A Voice that's One in a Million, NOT like a Million Others
+Accent: american
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

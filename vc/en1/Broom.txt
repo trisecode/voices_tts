@@ -1,0 +1,6 @@
+Name: Broom
+Accent: australian
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

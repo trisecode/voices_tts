@@ -1,0 +1,6 @@
+Name: Lisa | Stern and Assertive 
+Accent: british
+Gender: female
+Age: young
+Category: generated
+Language: 

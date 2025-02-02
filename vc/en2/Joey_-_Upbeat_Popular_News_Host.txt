@@ -1,0 +1,6 @@
+Name: Joey - Upbeat Popular News Host
+Accent: american
+Gender: male
+Age: young
+Category: high_quality
+Language: en

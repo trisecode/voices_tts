@@ -1,0 +1,6 @@
+Name: Jeanne - Professional and captivating voice
+Accent: parisian
+Gender: female
+Age: young
+Category: professional
+Language: fr

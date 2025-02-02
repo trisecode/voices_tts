@@ -1,0 +1,6 @@
+Nombre: Mia García- business, narrations and informative
+Acento: latin american
+Género: female
+Edad: middle_aged
+Categoría: high_quality
+Idioma: es

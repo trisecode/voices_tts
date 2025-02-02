@@ -1,0 +1,6 @@
+Name: Bea
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: pl

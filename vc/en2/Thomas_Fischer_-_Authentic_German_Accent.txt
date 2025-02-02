@@ -1,0 +1,6 @@
+Name: Thomas Fischer - Authentic German Accent
+Accent: german
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

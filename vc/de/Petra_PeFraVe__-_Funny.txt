@@ -1,0 +1,6 @@
+Name: Petra PeFraVe  - Funny
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: de

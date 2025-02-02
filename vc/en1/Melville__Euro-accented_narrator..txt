@@ -1,0 +1,6 @@
+Name: Melville: Euro-accented narrator.
+Accent: african
+Gender: male
+Age: young
+Category: generated
+Language: 

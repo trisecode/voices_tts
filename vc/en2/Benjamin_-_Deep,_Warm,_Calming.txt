@@ -1,0 +1,6 @@
+Name: Benjamin - Deep, Warm, Calming
+Accent: american
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: en

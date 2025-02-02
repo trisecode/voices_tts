@@ -1,0 +1,6 @@
+Name: Tulipe
+Accent: chinese
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

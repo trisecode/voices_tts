@@ -1,0 +1,6 @@
+Name: Kyana Cook
+Accent: american
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

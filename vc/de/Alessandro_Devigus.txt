@@ -1,0 +1,6 @@
+Name: Alessandro Devigus
+Accent: american german
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

@@ -1,0 +1,6 @@
+Name: Soft Daria - Meditation
+Accent: russian
+Gender: female
+Age: young
+Category: professional
+Language: en

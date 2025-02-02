@@ -1,0 +1,6 @@
+Name: Omeo
+Accent: indian
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

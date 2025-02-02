@@ -1,0 +1,6 @@
+Name: Amy - Clear and Concise
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

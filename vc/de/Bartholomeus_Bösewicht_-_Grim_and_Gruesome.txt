@@ -1,0 +1,6 @@
+Name: Bartholomeus Bösewicht - Grim and Gruesome
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: de

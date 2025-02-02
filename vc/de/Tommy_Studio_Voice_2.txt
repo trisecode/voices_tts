@@ -1,0 +1,6 @@
+Name: Tommy Studio Voice 2
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

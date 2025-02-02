@@ -1,0 +1,6 @@
+Name: Alex - Australian Male - Casual - Melbourne City
+Accent: australian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

@@ -1,0 +1,6 @@
+Name: Edgar - nerdy
+Accent: british
+Gender: male
+Age: young
+Category: generated
+Language: 

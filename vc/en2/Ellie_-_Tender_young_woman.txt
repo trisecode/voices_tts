@@ -1,0 +1,6 @@
+Name: Ellie - Tender young woman
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

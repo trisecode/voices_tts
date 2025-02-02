@@ -1,0 +1,6 @@
+Name: Lowy - soothing, gentle, and warm
+Accent: american
+Gender: male
+Age: young
+Category: professional
+Language: en

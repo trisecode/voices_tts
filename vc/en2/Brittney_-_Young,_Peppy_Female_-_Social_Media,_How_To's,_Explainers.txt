@@ -1,0 +1,6 @@
+Name: Brittney - Young, Peppy Female - Social Media, How To's, Explainers
+Accent: american
+Gender: female
+Age: young
+Category: professional
+Language: en

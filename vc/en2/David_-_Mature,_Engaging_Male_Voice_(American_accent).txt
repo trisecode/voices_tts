@@ -1,0 +1,6 @@
+Name: David - Mature, Engaging Male Voice (American accent)
+Accent: american
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: en

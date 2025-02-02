@@ -1,0 +1,6 @@
+Nombre: Jarpa Test - Francisco
+Acento: latin american
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

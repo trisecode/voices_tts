@@ -1,0 +1,6 @@
+Name: Pratama
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: id

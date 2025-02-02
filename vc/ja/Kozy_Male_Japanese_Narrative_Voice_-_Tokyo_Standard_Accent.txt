@@ -1,0 +1,6 @@
+Name: Kozy (Male Japanese Narrative Voice - Tokyo Standard Accent)
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: ja

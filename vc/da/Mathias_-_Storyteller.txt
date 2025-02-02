@@ -1,0 +1,6 @@
+Name: Mathias - Storyteller
+Accent: jutlandic
+Gender: male
+Age: middle_aged
+Category: professional
+Language: da

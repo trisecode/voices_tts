@@ -1,0 +1,6 @@
+Name: Ivy - Female Childish - Young, Innocent & Bubbly
+Accent: american
+Gender: female
+Age: young
+Category: high_quality
+Language: en

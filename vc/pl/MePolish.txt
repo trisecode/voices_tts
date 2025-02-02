@@ -1,0 +1,6 @@
+Name: MePolish
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: pl

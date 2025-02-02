@@ -1,0 +1,6 @@
+Name: Clemens Hartmann 3 - The Narrator
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

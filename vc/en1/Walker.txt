@@ -1,0 +1,6 @@
+Name: Walker
+Accent: american
+Gender: neutral
+Age: young
+Category: generated
+Language: 

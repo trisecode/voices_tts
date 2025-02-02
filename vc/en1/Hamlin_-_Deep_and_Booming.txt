@@ -1,0 +1,6 @@
+Name: Hamlin - Deep and Booming
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

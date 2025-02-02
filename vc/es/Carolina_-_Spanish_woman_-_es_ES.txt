@@ -1,0 +1,6 @@
+Nombre: Carolina - Spanish woman - es_ES
+Acento: peninsular
+Género: female
+Edad: middle_aged
+Categoría: professional
+Idioma: es

@@ -1,0 +1,6 @@
+Name: Sơn
+Accent: southern
+Gender: male
+Age: young
+Category: professional
+Language: vi

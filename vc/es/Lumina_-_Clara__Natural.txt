@@ -1,0 +1,6 @@
+Nombre: Lumina - Clara & Natural
+Acento: colombian
+Género: female
+Edad: young
+Categoría: professional
+Idioma: es

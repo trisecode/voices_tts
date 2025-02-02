@@ -1,0 +1,6 @@
+Name: Ava - youthful and expressive German female voice
+Accent: standard
+Gender: female
+Age: young
+Category: high_quality
+Language: de

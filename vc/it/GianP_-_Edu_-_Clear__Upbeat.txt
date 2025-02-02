@@ -1,0 +1,6 @@
+Name: GianP - Edu - Clear & Upbeat
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: it

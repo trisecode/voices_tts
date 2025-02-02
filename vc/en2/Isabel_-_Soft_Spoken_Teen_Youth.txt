@@ -1,0 +1,6 @@
+Name: Isabel - Soft Spoken Teen Youth
+Accent: australian
+Gender: female
+Age: young
+Category: professional
+Language: en

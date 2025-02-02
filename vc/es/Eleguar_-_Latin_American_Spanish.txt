@@ -1,0 +1,6 @@
+Nombre: Eleguar - Latin American Spanish
+Acento: american
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

@@ -1,0 +1,6 @@
+Name: Hiro
+Accent: american
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

@@ -1,0 +1,6 @@
+Name: Hurrem - Confident Turkish Actress
+Accent: istanbul
+Gender: female
+Age: middle_aged
+Category: professional
+Language: tr

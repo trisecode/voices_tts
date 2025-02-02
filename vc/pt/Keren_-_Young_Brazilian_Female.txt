@@ -1,0 +1,6 @@
+Name: Keren - Young Brazilian Female
+Accent: brazilian
+Gender: female
+Age: young
+Category: professional
+Language: pt

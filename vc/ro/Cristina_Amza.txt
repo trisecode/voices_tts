@@ -1,0 +1,6 @@
+Name: Cristina Amza
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: ro

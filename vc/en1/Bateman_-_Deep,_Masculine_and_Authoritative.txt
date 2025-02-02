@@ -1,0 +1,6 @@
+Name: Bateman - Deep, Masculine and Authoritative
+Accent: american
+Gender: male
+Age: young
+Category: high_quality
+Language: en

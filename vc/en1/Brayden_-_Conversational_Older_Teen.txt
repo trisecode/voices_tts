@@ -1,0 +1,6 @@
+Name: Brayden - Conversational Older Teen
+Accent: american
+Gender: male
+Age: young
+Category: high_quality
+Language: en

@@ -1,0 +1,6 @@
+Nombre: Ani Egea
+Acento: peninsular
+Género: female
+Edad: young
+Categoría: professional
+Idioma: es

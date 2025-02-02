@@ -1,0 +1,6 @@
+Name: Nikita - Youthful Hindi Voice
+Accent: standard
+Gender: female
+Age: young
+Category: professional
+Language: hi

@@ -1,0 +1,6 @@
+Name: Belma - Dynamic, Playful, Clear Narrator
+Accent: standard
+Gender: female
+Age: young
+Category: high_quality
+Language: tr

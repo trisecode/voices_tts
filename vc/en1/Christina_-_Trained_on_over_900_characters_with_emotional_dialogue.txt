@@ -1,0 +1,6 @@
+Name: Christina - Trained on over 900 characters with emotional dialogue
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

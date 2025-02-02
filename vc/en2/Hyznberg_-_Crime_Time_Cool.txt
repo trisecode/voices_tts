@@ -1,0 +1,6 @@
+Name: Hyznberg - Crime Time Cool
+Accent: german
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

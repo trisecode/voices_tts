@@ -1,0 +1,6 @@
+Nombre: Leo - Energetic Warm Happy Upbeat Inviting Optimistic
+Acento: mexican
+Género: male
+Edad: middle_aged
+Categoría: professional
+Idioma: es

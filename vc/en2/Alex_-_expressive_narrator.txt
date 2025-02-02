@@ -1,0 +1,6 @@
+Name: Alex - expressive narrator
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

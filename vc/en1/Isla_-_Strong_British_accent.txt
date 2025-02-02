@@ -1,0 +1,6 @@
+Name: Isla - Strong British accent
+Accent: british
+Gender: female
+Age: young
+Category: generated
+Language: 

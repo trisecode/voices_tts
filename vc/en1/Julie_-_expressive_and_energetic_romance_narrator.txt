@@ -1,0 +1,6 @@
+Name: Julie - expressive and energetic romance narrator
+Accent: british
+Gender: female
+Age: young
+Category: generated
+Language: 

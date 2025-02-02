@@ -1,0 +1,6 @@
+Name: Robert dein freundlicher Assistent
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

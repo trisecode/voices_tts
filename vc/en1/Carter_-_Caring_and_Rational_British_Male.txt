@@ -1,0 +1,6 @@
+Name: Carter - Caring and Rational British Male
+Accent: british
+Gender: male
+Age: old
+Category: generated
+Language: 

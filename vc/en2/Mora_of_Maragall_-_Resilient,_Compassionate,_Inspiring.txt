@@ -1,0 +1,6 @@
+Name: Mora of Maragall - Resilient, Compassionate, Inspiring
+Accent: american
+Gender: female
+Age: old
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: God
+Accent: standard
+Gender: male
+Age: young
+Category: high_quality
+Language: hi

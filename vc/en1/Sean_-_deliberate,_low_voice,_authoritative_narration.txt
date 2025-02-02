@@ -1,0 +1,6 @@
+Name: Sean - deliberate, low voice, authoritative narration
+Accent: american
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

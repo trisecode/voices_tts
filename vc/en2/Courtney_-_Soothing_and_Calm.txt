@@ -1,0 +1,6 @@
+Name: Courtney - Soothing and Calm
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: en

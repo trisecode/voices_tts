@@ -1,0 +1,6 @@
+Name: Arthur - Geeky Masculine Deep
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

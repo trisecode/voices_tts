@@ -1,0 +1,6 @@
+Name: Dorian - fast paced mediations
+Accent: british
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

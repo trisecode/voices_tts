@@ -1,0 +1,6 @@
+Name: Albert - Strong German Accent 
+Accent: german
+Gender: male
+Age: young
+Category: professional
+Language: en

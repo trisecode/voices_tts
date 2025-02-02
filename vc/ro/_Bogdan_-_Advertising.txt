@@ -1,0 +1,6 @@
+Name:  Bogdan - Advertising
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: ro

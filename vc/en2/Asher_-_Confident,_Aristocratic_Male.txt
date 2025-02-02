@@ -1,0 +1,6 @@
+Name: Asher - Confident, Aristocratic Male
+Accent: british
+Gender: male
+Age: young
+Category: generated
+Language: 

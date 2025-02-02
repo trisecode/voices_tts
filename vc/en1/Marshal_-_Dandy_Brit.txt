@@ -1,0 +1,6 @@
+Name: Marshal - Dandy Brit
+Accent: british
+Gender: neutral
+Age: middle_aged
+Category: professional
+Language: en

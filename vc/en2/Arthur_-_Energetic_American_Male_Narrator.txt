@@ -1,0 +1,6 @@
+Name: Arthur - Energetic American Male Narrator
+Accent: american
+Gender: male
+Age: young
+Category: professional
+Language: en

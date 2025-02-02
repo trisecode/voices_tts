@@ -1,0 +1,6 @@
+Name: Torsten - Raspy Charmer
+Accent: 
+Gender: male
+Age: young
+Category: high_quality
+Language: de

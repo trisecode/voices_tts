@@ -1,0 +1,6 @@
+Name: Willi - Professional German Narrator
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

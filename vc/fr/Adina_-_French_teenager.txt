@@ -1,0 +1,6 @@
+Name: Adina - French teenager
+Accent: standard
+Gender: female
+Age: young
+Category: high_quality
+Language: fr

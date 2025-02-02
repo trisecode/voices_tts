@@ -1,0 +1,6 @@
+Name: Nicolette - Young Woman, Clear, Accented
+Accent: british
+Gender: female
+Age: young
+Category: generated
+Language: 

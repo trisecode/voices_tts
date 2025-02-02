@@ -1,0 +1,6 @@
+Name: Sigrid - solemn, raspy, wise
+Accent: british
+Gender: female
+Age: old
+Category: generated
+Language: 

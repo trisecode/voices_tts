@@ -1,0 +1,6 @@
+Name: Very Vlad - Soviet Comrade
+Accent: russian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

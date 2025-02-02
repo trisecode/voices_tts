@@ -1,0 +1,6 @@
+Name: Robert hypnotisiert entspannte Meditation
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

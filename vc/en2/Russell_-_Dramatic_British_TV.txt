@@ -1,0 +1,6 @@
+Name: Russell - Dramatic British TV
+Accent: british
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: en

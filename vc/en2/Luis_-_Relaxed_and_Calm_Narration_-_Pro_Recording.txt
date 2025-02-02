@@ -1,0 +1,6 @@
+Name: Luis - Relaxed and Calm Narration - Pro Recording
+Accent: american
+Gender: male
+Age: young
+Category: professional
+Language: en

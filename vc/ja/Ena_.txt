@@ -1,0 +1,6 @@
+Name: Ena 
+Accent: standard
+Gender: neutral
+Age: young
+Category: professional
+Language: ja

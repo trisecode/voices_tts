@@ -1,0 +1,6 @@
+Name: Brandon VO Artist Clone
+Accent: american
+Gender: male
+Age: young
+Category: professional
+Language: en

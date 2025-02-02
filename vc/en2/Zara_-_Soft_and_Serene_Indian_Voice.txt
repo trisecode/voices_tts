@@ -1,0 +1,6 @@
+Name: Zara - Soft and Serene Indian Voice
+Accent: indian
+Gender: female
+Age: young
+Category: professional
+Language: en

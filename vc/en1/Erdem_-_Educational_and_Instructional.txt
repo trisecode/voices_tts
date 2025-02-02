@@ -1,0 +1,6 @@
+Name: Erdem - Educational and Instructional
+Accent: turkish
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

@@ -1,0 +1,6 @@
+Name: Subu
+Accent: african
+Gender: female
+Age: young
+Category: generated
+Language: 

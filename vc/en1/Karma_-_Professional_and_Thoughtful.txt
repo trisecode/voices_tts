@@ -1,0 +1,6 @@
+Name: Karma - Professional and Thoughtful
+Accent: african
+Gender: female
+Age: middle_aged
+Category: generated
+Language: 

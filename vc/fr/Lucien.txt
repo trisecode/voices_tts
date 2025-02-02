@@ -1,0 +1,6 @@
+Name: Lucien
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: fr

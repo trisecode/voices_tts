@@ -1,0 +1,6 @@
+Name: Timo
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: de

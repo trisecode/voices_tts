@@ -1,0 +1,6 @@
+Nombre: Antonio LV
+Acento: peninsular
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

@@ -1,0 +1,6 @@
+Name: Thomas Hansen
+Accent: zealandic
+Gender: male
+Age: young
+Category: professional
+Language: da

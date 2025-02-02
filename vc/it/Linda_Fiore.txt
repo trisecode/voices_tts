@@ -1,0 +1,6 @@
+Name: Linda Fiore
+Accent: standard
+Gender: female
+Age: young
+Category: high_quality
+Language: it

@@ -1,0 +1,6 @@
+Name: Derin Roman - Epic, Dark, Powerful
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: tr

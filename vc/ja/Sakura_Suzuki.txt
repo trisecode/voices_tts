@@ -1,0 +1,6 @@
+Name: Sakura Suzuki
+Accent: standard
+Gender: female
+Age: young
+Category: professional
+Language: ja

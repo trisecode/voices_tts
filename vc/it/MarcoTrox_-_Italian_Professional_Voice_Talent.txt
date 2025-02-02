@@ -1,0 +1,6 @@
+Name: MarcoTrox - Italian Professional Voice Talent
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: it

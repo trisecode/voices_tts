@@ -1,0 +1,6 @@
+Name: Emily
+Accent: irish
+Gender: female
+Age: young
+Category: professional
+Language: en

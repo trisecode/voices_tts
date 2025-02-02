@@ -1,0 +1,6 @@
+Name: Kostiantyn
+Accent: 
+Gender: male
+Age: young
+Category: professional
+Language: en

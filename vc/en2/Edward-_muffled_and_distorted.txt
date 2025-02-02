@@ -1,0 +1,6 @@
+Name: Edward- muffled and distorted
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

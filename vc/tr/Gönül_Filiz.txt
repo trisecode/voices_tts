@@ -1,0 +1,6 @@
+Name: Gönül Filiz
+Accent: istanbul
+Gender: female
+Age: young
+Category: professional
+Language: tr

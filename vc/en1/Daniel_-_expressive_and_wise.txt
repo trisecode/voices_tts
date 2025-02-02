@@ -1,0 +1,6 @@
+Name: Daniel - expressive and wise
+Accent: australian
+Gender: male
+Age: young
+Category: generated
+Language: 

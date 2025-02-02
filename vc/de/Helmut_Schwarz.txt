@@ -1,0 +1,6 @@
+Name: Helmut Schwarz
+Accent: standard
+Gender: male
+Age: old
+Category: professional
+Language: de

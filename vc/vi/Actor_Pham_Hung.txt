@@ -1,0 +1,6 @@
+Name: Actor Pham Hung
+Accent: standard
+Gender: male
+Age: old
+Category: professional
+Language: vi

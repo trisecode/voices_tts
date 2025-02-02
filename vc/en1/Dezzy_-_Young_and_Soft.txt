@@ -1,0 +1,6 @@
+Name: Dezzy - Young and Soft
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: Locução para Propaganda
+Accent: brazilian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: pt

@@ -1,0 +1,6 @@
+Nombre: Diego Cárdenas
+Acento: peruvian
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

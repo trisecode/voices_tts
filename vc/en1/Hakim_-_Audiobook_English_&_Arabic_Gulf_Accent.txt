@@ -1,0 +1,6 @@
+Name: Hakim - Audiobook English & Arabic Gulf Accent
+Accent: arabic
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

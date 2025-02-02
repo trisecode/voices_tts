@@ -1,0 +1,6 @@
+Nombre: Alejandro - Mexican male
+Acento: mexican
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

@@ -1,0 +1,6 @@
+Name: Godot - Wise and Serene
+Accent: british
+Gender: female
+Age: middle_aged
+Category: generated
+Language: 

@@ -1,0 +1,6 @@
+Name: Lisa  - Pleasant, calm and dynamic
+Accent: american
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

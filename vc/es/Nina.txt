@@ -1,0 +1,6 @@
+Nombre: Nina
+Acento: 
+Género: female
+Edad: young
+Categoría: professional
+Idioma: es

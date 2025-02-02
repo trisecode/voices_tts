@@ -1,0 +1,6 @@
+Nombre: Regina Martin
+Acento: latin american
+Género: female
+Edad: old
+Categoría: professional
+Idioma: es

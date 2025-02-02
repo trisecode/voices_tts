@@ -1,0 +1,6 @@
+Name: Artemii Levkoy
+Accent: saint petersburg
+Gender: male
+Age: middle_aged
+Category: professional
+Language: ru

@@ -1,0 +1,6 @@
+Name: Andi Brewi - Moderator, advertising spokesperson
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

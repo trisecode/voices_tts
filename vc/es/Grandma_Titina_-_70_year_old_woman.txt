@@ -1,0 +1,6 @@
+Nombre: Grandma Titina - 70 year old woman
+Acento: latin american
+Género: female
+Edad: old
+Categoría: professional
+Idioma: es

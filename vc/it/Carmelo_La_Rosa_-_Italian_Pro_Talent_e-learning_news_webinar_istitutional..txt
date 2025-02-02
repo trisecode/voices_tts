@@ -1,0 +1,6 @@
+Name: Carmelo La Rosa - Italian Pro Talent, e-learning, news, webinar, istitutional.
+Accent: standard
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: it

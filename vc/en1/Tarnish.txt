@@ -1,0 +1,6 @@
+Name: Tarnish
+Accent: australian
+Gender: female
+Age: middle_aged
+Category: generated
+Language: 

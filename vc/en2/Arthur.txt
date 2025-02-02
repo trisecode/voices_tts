@@ -1,0 +1,6 @@
+Name: Arthur
+Accent: british
+Gender: male
+Age: old
+Category: high_quality
+Language: en

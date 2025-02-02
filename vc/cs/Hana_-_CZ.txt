@@ -1,0 +1,6 @@
+Name: Hana - CZ
+Accent: standard
+Gender: female
+Age: middle_aged
+Category: professional
+Language: cs

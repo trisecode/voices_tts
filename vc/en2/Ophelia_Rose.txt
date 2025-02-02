@@ -1,0 +1,6 @@
+Name: Ophelia Rose
+Accent: british
+Gender: female
+Age: young
+Category: professional
+Language: en

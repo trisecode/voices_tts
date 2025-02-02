@@ -1,0 +1,6 @@
+Nombre: Pablo (Vambe AI V2)
+Acento: latin american
+Género: male
+Edad: middle_aged
+Categoría: professional
+Idioma: es

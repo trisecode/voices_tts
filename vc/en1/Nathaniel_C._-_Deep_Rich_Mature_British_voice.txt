@@ -1,0 +1,6 @@
+Name: Nathaniel C. - Deep Rich Mature British voice
+Accent: british
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

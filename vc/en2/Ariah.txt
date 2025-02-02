@@ -1,0 +1,6 @@
+Name: Ariah
+Accent: american
+Gender: neutral
+Age: young
+Category: professional
+Language: en

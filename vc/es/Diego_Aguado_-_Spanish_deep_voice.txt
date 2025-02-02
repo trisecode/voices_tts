@@ -1,0 +1,6 @@
+Nombre: Diego Aguado - Spanish deep voice
+Acento: peninsular
+Género: male
+Edad: young
+Categoría: professional
+Idioma: es

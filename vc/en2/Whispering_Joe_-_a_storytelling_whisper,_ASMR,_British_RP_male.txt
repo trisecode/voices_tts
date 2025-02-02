@@ -1,0 +1,6 @@
+Name: Whispering Joe - a storytelling whisper, ASMR, British RP male
+Accent: british
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

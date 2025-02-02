@@ -1,0 +1,6 @@
+Name: Cicek - Joyful, Dynamic Storyteller
+Accent: standard
+Gender: female
+Age: young
+Category: high_quality
+Language: tr

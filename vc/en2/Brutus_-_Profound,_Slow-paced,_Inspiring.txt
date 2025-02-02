@@ -1,0 +1,6 @@
+Name: Brutus - Profound, Slow-paced, Inspiring
+Accent: 
+Gender: male
+Age: middle_aged
+Category: professional
+Language: en

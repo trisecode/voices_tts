@@ -1,0 +1,6 @@
+Nombre: Rosa - Spanish Calm Old Woman
+Acento: peninsular
+Género: female
+Edad: old
+Categoría: professional
+Idioma: es

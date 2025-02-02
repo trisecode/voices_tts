@@ -1,0 +1,6 @@
+Name: Irem
+Accent: 
+Gender: female
+Age: young
+Category: high_quality
+Language: tr

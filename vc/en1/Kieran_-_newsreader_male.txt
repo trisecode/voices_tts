@@ -1,0 +1,6 @@
+Name: Kieran - newsreader male
+Accent: american
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

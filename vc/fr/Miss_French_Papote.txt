@@ -1,0 +1,6 @@
+Name: Miss French Papote
+Accent: parisian
+Gender: female
+Age: middle_aged
+Category: professional
+Language: fr

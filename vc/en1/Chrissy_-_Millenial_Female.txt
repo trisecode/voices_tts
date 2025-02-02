@@ -1,0 +1,6 @@
+Name: Chrissy - Millenial Female
+Accent: american
+Gender: female
+Age: young
+Category: professional
+Language: en

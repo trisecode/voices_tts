@@ -1,0 +1,6 @@
+Name: Emilie Lacroix
+Accent: 
+Gender: female
+Age: middle_aged
+Category: high_quality
+Language: fr

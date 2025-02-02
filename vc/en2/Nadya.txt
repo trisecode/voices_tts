@@ -1,0 +1,6 @@
+Name: Nadya
+Accent: russian
+Gender: female
+Age: young
+Category: professional
+Language: en

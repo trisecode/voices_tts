@@ -1,0 +1,6 @@
+Name: Horvath aus Wien
+Accent: bavarian
+Gender: male
+Age: middle_aged
+Category: professional
+Language: de

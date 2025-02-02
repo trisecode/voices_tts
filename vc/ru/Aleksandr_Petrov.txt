@@ -1,0 +1,6 @@
+Name: Aleksandr Petrov
+Accent: moscow
+Gender: male
+Age: middle_aged
+Category: professional
+Language: ru

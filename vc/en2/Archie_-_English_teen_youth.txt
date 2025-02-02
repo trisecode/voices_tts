@@ -1,0 +1,6 @@
+Name: Archie - English teen youth
+Accent: british
+Gender: male
+Age: young
+Category: high_quality
+Language: en

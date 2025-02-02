@@ -1,0 +1,6 @@
+Name: Victorian - a lady of quality
+Accent: british
+Gender: female
+Age: young
+Category: generated
+Language: 

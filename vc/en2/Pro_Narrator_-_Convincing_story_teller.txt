@@ -1,0 +1,6 @@
+Name: Pro Narrator - Convincing story teller
+Accent: american
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: en

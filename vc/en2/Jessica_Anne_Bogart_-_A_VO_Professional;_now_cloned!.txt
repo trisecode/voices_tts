@@ -1,0 +1,6 @@
+Name: Jessica Anne Bogart - A VO Professional; now cloned!
+Accent: american
+Gender: female
+Age: middle_aged
+Category: high_quality
+Language: en

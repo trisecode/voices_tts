@@ -1,0 +1,6 @@
+Name: Scott - drill instructor
+Accent: british
+Gender: male
+Age: middle_aged
+Category: generated
+Language: 

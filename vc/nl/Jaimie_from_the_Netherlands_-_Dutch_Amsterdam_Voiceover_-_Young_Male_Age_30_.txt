@@ -1,0 +1,6 @@
+Name: Jaimie from the Netherlands - Dutch Amsterdam Voiceover - Young Male, Age 30 
+Accent: standard
+Gender: male
+Age: young
+Category: professional
+Language: nl

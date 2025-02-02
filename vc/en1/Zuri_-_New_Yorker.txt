@@ -1,0 +1,6 @@
+Name: Zuri - New Yorker
+Accent: american
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en

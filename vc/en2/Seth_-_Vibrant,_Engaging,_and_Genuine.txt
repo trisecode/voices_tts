@@ -1,0 +1,6 @@
+Name: Seth - Vibrant, Engaging, and Genuine
+Accent: american
+Gender: male
+Age: young
+Category: generated
+Language: 

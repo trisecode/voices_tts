@@ -1,0 +1,6 @@
+Name: Luisa
+Accent: 
+Gender: female
+Age: young
+Category: professional
+Language: de

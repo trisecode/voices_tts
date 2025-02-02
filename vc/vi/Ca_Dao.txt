@@ -1,0 +1,6 @@
+Name: Ca Dao
+Accent: standard
+Gender: female
+Age: young
+Category: professional
+Language: vi

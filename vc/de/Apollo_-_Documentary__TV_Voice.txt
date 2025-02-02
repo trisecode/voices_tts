@@ -1,0 +1,6 @@
+Name: Apollo - Documentary & TV Voice
+Accent: standard
+Gender: male
+Age: young
+Category: high_quality
+Language: de

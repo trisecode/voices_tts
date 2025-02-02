@@ -1,0 +1,6 @@
+Name: Aneta - Loud and confident voice
+Accent: 
+Gender: female
+Age: middle_aged
+Category: professional
+Language: pl

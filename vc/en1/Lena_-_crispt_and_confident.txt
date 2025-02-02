@@ -1,0 +1,6 @@
+Name: Lena - crispt and confident
+Accent: american
+Gender: female
+Age: young
+Category: generated
+Language: 

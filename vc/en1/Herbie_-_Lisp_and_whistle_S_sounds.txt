@@ -1,0 +1,6 @@
+Name: Herbie - Lisp and whistle S sounds
+Accent: american
+Gender: male
+Age: old
+Category: professional
+Language: en

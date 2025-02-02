@@ -1,0 +1,6 @@
+Name: Adriano - Narrator2
+Accent: brazilian
+Gender: male
+Age: middle_aged
+Category: high_quality
+Language: pt

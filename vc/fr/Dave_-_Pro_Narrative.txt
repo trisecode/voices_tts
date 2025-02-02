@@ -1,0 +1,6 @@
+Name: Dave - Pro Narrative
+Accent: african
+Gender: male
+Age: young
+Category: professional
+Language: fr

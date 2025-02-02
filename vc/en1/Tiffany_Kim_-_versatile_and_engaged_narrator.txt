@@ -1,0 +1,6 @@
+Name: Tiffany Kim - versatile and engaged narrator
+Accent: american
+Gender: female
+Age: middle_aged
+Category: professional
+Language: en
