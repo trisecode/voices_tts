@@ -1,6 +1,0 @@
-Name: Sita 2
-Accent: indian
-Gender: female
-Age: old
-Category: generated
-Language: 

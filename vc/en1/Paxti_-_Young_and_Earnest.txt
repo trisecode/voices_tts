@@ -1,6 +1,0 @@
-Name: Paxti - Young and Earnest
-Accent: american
-Gender: female
-Age: young
-Category: generated
-Language: 

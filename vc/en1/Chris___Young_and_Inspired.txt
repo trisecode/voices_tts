@@ -1,6 +1,0 @@
-Name: Chris | Young and Inspired
-Accent: british
-Gender: male
-Age: young
-Category: generated
-Language: 

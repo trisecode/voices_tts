@@ -1,6 +1,0 @@
-Name: German Michael - Loud, Clear & Striking
-Accent: standard
-Gender: male
-Age: middle_aged
-Category: professional
-Language: de

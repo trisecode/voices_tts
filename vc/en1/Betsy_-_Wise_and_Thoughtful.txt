@@ -1,6 +1,0 @@
-Name: Betsy - Wise and Thoughtful
-Accent: american
-Gender: female
-Age: old
-Category: generated
-Language: 

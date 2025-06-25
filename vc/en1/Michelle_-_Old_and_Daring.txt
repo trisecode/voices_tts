@@ -1,6 +1,0 @@
-Name: Michelle - Old and Daring
-Accent: american
-Gender: female
-Age: old
-Category: generated
-Language: 

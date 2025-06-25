@@ -1,6 +1,0 @@
-Name: Steven - Vibrant, Resonant, and Inspiring
-Accent: british
-Gender: male
-Age: young
-Category: generated
-Language: 

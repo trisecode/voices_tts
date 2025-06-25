@@ -1,6 +1,0 @@
-Name: Alec - Energetic, Confident, and Charismatic
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

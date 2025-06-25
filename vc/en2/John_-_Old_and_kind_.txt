@@ -1,6 +1,0 @@
-Name: John - Old and kind 
-Accent: british
-Gender: male
-Age: old
-Category: generated
-Language: 

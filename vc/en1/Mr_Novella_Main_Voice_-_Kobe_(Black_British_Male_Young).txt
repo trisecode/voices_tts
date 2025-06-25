@@ -1,6 +1,0 @@
-Name: Mr Novella Main Voice - Kobe (Black British Male Young)
-Accent: african
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

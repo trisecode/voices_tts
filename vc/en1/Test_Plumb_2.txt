@@ -1,6 +1,0 @@
-Name: Test Plumb 2
-Accent: british
-Gender: male
-Age: old
-Category: generated
-Language: 

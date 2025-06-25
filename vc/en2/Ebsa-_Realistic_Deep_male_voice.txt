@@ -1,6 +1,0 @@
-Name: Ebsa- Realistic Deep male voice
-Accent: american
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

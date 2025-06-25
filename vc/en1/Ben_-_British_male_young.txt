@@ -1,6 +1,0 @@
-Name: Ben - British male young
-Accent: british
-Gender: male
-Age: young
-Category: generated
-Language: 

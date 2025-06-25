@@ -1,6 +1,0 @@
-Name: Wildebeest
-Accent: south african
-Gender: male
-Age: old
-Category: generated
-Language: 

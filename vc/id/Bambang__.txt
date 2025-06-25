@@ -1,6 +1,0 @@
-Name: Bambang  
-Accent: javanese
-Gender: male
-Age: middle_aged
-Category: professional
-Language: id

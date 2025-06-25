@@ -1,6 +1,0 @@
-Name: Lydia - squeaky 
-Accent: british
-Gender: female
-Age: old
-Category: generated
-Language: 

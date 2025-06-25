@@ -1,6 +1,0 @@
-Name: Leonardo Hamaral
-Accent: brazilian
-Gender: male
-Age: middle_aged
-Category: professional
-Language: pt

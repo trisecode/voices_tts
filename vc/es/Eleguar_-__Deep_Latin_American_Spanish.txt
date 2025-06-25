@@ -1,6 +1,0 @@
-Nombre: Eleguar -  Deep Latin American Spanish
-Acento: american
-Género: male
-Edad: middle_aged
-Categoría: professional
-Idioma: es

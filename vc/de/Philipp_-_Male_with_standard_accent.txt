@@ -1,6 +1,0 @@
-Name: Philipp - Male with standard accent
-Accent: standard
-Gender: male
-Age: middle_aged
-Category: professional
-Language: de

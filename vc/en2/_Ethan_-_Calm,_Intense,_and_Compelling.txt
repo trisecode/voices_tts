@@ -1,6 +1,0 @@
-Name:  Ethan - Calm, Intense, and Compelling
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

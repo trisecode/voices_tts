@@ -1,6 +1,0 @@
-Name: Hermes - frank abrupt messenger
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name:  Luca -  calm, soothing, steady
-Accent: american
-Gender: male
-Age: young
-Category: professional
-Language: en

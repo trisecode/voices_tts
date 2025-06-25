@@ -1,6 +1,0 @@
-Nombre: Dan Dan
-Acento: american
-Género: male
-Edad: young
-Categoría: professional
-Idioma: es

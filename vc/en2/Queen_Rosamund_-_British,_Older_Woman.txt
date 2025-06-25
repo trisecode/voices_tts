@@ -1,6 +1,0 @@
-Name: Queen Rosamund - British, Older Woman
-Accent: british
-Gender: female
-Age: old
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Peter
-Accent: british
-Gender: male
-Age: young
-Category: generated
-Language: 

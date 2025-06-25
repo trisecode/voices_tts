@@ -1,6 +1,0 @@
-Name: Adina - Teen Girl
-Accent: canadian
-Gender: female
-Age: young
-Category: professional
-Language: en

@@ -1,6 +1,0 @@
-Name: Jasper - androgynous and rebellious
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

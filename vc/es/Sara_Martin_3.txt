@@ -1,6 +1,0 @@
-Nombre: Sara Martin 3
-Acento: peninsular
-Género: female
-Edad: young
-Categoría: high_quality
-Idioma: es

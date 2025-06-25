@@ -1,6 +1,0 @@
-Name: Ken
-Accent: 
-Gender: male
-Age: middle_aged
-Category: professional
-Language: ja

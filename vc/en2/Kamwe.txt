@@ -1,6 +1,0 @@
-Name: Kamwe
-Accent: south african
-Gender: male
-Age: young
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Agatha
-Accent: british
-Gender: female
-Age: old
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Lamar Lincoln- Black Male
-Accent: american
-Gender: male
-Age: young
-Category: professional
-Language: en

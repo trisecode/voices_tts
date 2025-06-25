@@ -1,6 +1,0 @@
-Name: Sam - Slight Welsh Accent
-Accent: british
-Gender: male
-Age: young
-Category: professional
-Language: en

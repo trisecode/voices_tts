@@ -1,6 +1,0 @@
-Nombre: Maxi Araya
-Acento: 
-Género: male
-Edad: young
-Categoría: professional
-Idioma: es

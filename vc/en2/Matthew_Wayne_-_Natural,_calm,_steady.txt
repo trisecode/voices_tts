@@ -1,6 +1,0 @@
-Name: Matthew Wayne - Natural, calm, steady
-Accent: 
-Gender: male
-Age: middle_aged
-Category: professional
-Language: en

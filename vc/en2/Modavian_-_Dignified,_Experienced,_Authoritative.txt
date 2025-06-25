@@ -1,6 +1,0 @@
-Name: Modavian - Dignified, Experienced, Authoritative
-Accent: british
-Gender: male
-Age: old
-Category: generated
-Language: 

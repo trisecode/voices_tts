@@ -1,6 +1,0 @@
-Name: Mia Starset
-Accent: oslo
-Gender: female
-Age: young
-Category: professional
-Language: no

@@ -1,6 +1,0 @@
-Name: Gruhastha - Energetic, Enthusiastic, & Articulate
-Accent: british
-Gender: male
-Age: young
-Category: generated
-Language: 

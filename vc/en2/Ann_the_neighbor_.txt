@@ -1,6 +1,0 @@
-Name: Ann the neighbor 
-Accent: american
-Gender: female
-Age: middle_aged
-Category: generated
-Language: 

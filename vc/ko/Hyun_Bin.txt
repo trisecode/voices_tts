@@ -1,6 +1,0 @@
-Name: Hyun Bin
-Accent: seoul
-Gender: male
-Age: middle_aged
-Category: professional
-Language: ko

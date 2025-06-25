@@ -1,6 +1,0 @@
-Name: Attention Grabbing Male Narrator
-Accent: british
-Gender: male
-Age: young
-Category: generated
-Language: 

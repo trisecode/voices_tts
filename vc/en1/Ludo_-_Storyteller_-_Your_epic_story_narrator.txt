@@ -1,6 +1,0 @@
-Name: Ludo - Storyteller - Your epic story narrator
-Accent: british
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

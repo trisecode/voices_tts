@@ -1,6 +1,0 @@
-Name: Keel - confident, dramatic narrator
-Accent: african
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

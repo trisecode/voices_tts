@@ -1,6 +1,0 @@
-Name: Rama - wise and philosophical sage
-Accent: indian
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Dean - Goody Two Shoes
-Accent: british
-Gender: male
-Age: young
-Category: generated
-Language: 

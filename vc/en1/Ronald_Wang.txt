@@ -1,6 +1,0 @@
-Name: Ronald Wang
-Accent: 
-Gender: male
-Age: middle_aged
-Category: professional
-Language: en

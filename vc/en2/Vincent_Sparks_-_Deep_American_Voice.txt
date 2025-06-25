@@ -1,6 +1,0 @@
-Name: Vincent Sparks - Deep American Voice
-Accent: american
-Gender: male
-Age: middle_aged
-Category: professional
-Language: en

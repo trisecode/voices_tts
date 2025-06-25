@@ -1,6 +1,0 @@
-Name: Planty - raspy voice
-Accent: 
-Gender: male
-Age: young
-Category: professional
-Language: en

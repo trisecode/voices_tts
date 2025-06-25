@@ -1,6 +1,0 @@
-Name: Shiv - Mature Deep Voice
-Accent: indian
-Gender: male
-Age: old
-Category: professional
-Language: en

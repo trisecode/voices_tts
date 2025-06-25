@@ -1,6 +1,0 @@
-Name: Hemaka
-Accent: african
-Gender: female
-Age: middle_aged
-Category: generated
-Language: 

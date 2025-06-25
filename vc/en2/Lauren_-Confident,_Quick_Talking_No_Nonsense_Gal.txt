@@ -1,6 +1,0 @@
-Name: Lauren -Confident, Quick Talking No Nonsense Gal
-Accent: american
-Gender: female
-Age: middle_aged
-Category: generated
-Language: 

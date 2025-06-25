@@ -1,6 +1,0 @@
-Name: Tri Nugraha Ramadhani
-Accent: 
-Gender: male
-Age: young
-Category: professional
-Language: id

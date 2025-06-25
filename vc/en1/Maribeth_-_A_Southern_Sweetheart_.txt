@@ -1,6 +1,0 @@
-Name: Maribeth - A Southern Sweetheart 
-Accent: us southern
-Gender: female
-Age: middle_aged
-Category: professional
-Language: en

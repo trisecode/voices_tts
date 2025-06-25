@@ -1,6 +1,0 @@
-Name: Arjun
-Accent: indian
-Gender: male
-Age: young
-Category: generated
-Language: 

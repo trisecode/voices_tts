@@ -1,6 +1,0 @@
-Name: Seán
-Accent: irish
-Gender: male
-Age: middle_aged
-Category: professional
-Language: en

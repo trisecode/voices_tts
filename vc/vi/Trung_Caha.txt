@@ -1,6 +1,0 @@
-Name: Trung Caha
-Accent: northern
-Gender: male
-Age: middle_aged
-Category: professional
-Language: vi

@@ -1,6 +1,0 @@
-Name: Belle - Clear, Well-Modulated, Expressive
-Accent: british
-Gender: female
-Age: middle_aged
-Category: generated
-Language: 

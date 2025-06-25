@@ -1,6 +1,0 @@
-Name: Aspexia - Grand & Clear
-Accent: american
-Gender: female
-Age: old
-Category: generated
-Language: 

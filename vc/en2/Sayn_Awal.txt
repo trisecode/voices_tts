@@ -1,6 +1,0 @@
-Name: Sayn Awal
-Accent: 
-Gender: male
-Age: young
-Category: professional
-Language: en

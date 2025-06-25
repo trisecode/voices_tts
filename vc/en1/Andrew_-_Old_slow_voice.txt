@@ -1,6 +1,0 @@
-Name: Andrew - Old slow voice
-Accent: american
-Gender: male
-Age: old
-Category: generated
-Language: 

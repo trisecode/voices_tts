@@ -1,6 +1,0 @@
-Name: Arthur - Royal Narrator
-Accent: british
-Gender: male
-Age: old
-Category: generated
-Language: 

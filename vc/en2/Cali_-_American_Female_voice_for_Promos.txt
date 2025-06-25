@@ -1,6 +1,0 @@
-Name: Cali - American Female voice for Promos
-Accent: american
-Gender: female
-Age: young
-Category: generated
-Language: 

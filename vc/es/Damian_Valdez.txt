@@ -1,6 +1,0 @@
-Nombre: Damian Valdez
-Acento: latin american
-Género: neutral
-Edad: middle_aged
-Categoría: professional
-Idioma: es

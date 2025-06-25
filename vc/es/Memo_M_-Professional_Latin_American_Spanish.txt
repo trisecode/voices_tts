@@ -1,6 +1,0 @@
-Nombre: Memo M -Professional Latin American Spanish
-Acento: latin american
-Género: male
-Edad: middle_aged
-Categoría: professional
-Idioma: es

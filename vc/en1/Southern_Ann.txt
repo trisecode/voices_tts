@@ -1,6 +1,0 @@
-Name: Southern Ann
-Accent: american
-Gender: female
-Age: middle_aged
-Category: professional
-Language: en

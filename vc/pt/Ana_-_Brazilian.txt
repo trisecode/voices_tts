@@ -1,6 +1,0 @@
-Name: Ana - Brazilian
-Accent: brazilian
-Gender: female
-Age: young
-Category: professional
-Language: pt

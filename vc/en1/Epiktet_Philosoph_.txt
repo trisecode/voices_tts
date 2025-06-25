@@ -1,6 +1,0 @@
-Name: Epiktet Philosoph 
-Accent: german
-Gender: male
-Age: old
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Derrick - melancholy
-Accent: american
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

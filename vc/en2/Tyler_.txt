@@ -1,6 +1,0 @@
-Name: Tyler 
-Accent: african
-Gender: male
-Age: young
-Category: generated
-Language: 

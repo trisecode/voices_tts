@@ -1,6 +1,0 @@
-Name: Jessica - Cali girl
-Accent: american
-Gender: female
-Age: young
-Category: generated
-Language: 

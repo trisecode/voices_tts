@@ -1,6 +1,0 @@
-Name: Ruth - grandmother storyteller
-Accent: american
-Gender: female
-Age: old
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: John - Ultra Brutal Man
-Accent: american
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

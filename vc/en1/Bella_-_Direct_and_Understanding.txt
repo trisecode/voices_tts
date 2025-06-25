@@ -1,6 +1,0 @@
-Name: Bella - Direct and Understanding
-Accent: australian
-Gender: female
-Age: middle_aged
-Category: generated
-Language: 

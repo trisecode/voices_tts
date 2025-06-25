@@ -1,6 +1,0 @@
-Name: Patino - Columbian Spanish
-Accent: 
-Gender: female
-Age: middle_aged
-Category: professional
-Language: en

@@ -1,6 +1,0 @@
-Nombre: Leonardo
-Acento: argentine
-Género: male
-Edad: young
-Categoría: professional
-Idioma: es

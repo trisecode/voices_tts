@@ -1,6 +1,0 @@
-Name: Laurence - Class & Mature
-Accent: standard
-Gender: female
-Age: middle_aged
-Category: professional
-Language: fr

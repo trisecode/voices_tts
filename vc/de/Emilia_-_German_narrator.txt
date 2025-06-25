@@ -1,6 +1,0 @@
-Name: Emilia - German narrator
-Accent: standard
-Gender: female
-Age: young
-Category: high_quality
-Language: de

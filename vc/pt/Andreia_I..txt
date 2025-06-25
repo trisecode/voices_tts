@@ -1,6 +1,0 @@
-Name: Andreia I.
-Accent: 
-Gender: female
-Age: middle_aged
-Category: professional
-Language: pt

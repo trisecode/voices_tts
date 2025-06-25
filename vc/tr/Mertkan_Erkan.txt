@@ -1,6 +1,0 @@
-Name: Mertkan Erkan
-Accent: istanbul
-Gender: male
-Age: middle_aged
-Category: professional
-Language: tr

@@ -1,6 +1,0 @@
-Name: Pedro Costa
-Accent: portuguese
-Gender: male
-Age: young
-Category: professional
-Language: en

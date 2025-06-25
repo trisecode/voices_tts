@@ -1,6 +1,0 @@
-Name: Priya - Beautiful and melodic Indian accent
-Accent: indian
-Gender: female
-Age: young
-Category: generated
-Language: 

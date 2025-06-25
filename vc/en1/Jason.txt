@@ -1,6 +1,0 @@
-Name: Jason
-Accent: American
-Gender: neutral
-Age: middle_aged
-Category: generated
-Language: 

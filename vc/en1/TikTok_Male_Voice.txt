@@ -1,6 +1,0 @@
-Name: TikTok Male Voice
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Jung - Narrative
-Accent: seoul
-Gender: male
-Age: middle_aged
-Category: professional
-Language: ko

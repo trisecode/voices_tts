@@ -1,6 +1,0 @@
-Name: Bob  - Young Deep-voice
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Sophia Florence
-Accent: irish
-Gender: female
-Age: young
-Category: generated
-Language: 

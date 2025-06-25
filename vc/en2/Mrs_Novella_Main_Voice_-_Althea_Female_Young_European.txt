@@ -1,6 +1,0 @@
-Name: Mrs Novella Main Voice - Althea Female Young European
-Accent: british
-Gender: female
-Age: young
-Category: generated
-Language: 

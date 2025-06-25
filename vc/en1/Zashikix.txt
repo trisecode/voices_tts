@@ -1,6 +1,0 @@
-Name: Zashikix
-Accent: british
-Gender: female
-Age: middle_aged
-Category: professional
-Language: en

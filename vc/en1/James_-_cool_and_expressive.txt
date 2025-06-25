@@ -1,6 +1,0 @@
-Name: James - cool and expressive
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

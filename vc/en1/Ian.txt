@@ -1,6 +1,0 @@
-Name: Ian
-Accent: british
-Gender: male
-Age: old
-Category: generated
-Language: 

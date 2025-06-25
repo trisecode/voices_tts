@@ -1,6 +1,0 @@
-Name: Penny - sweet story teller
-Accent: british
-Gender: female
-Age: young
-Category: generated
-Language: 

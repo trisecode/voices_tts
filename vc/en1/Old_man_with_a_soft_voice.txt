@@ -1,6 +1,0 @@
-Name: Old man with a soft voice
-Accent: american
-Gender: male
-Age: old
-Category: generated
-Language: 

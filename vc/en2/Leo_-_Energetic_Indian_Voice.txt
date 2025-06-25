@@ -1,6 +1,0 @@
-Name: Leo - Energetic Indian Voice
-Accent: indian
-Gender: male
-Age: middle_aged
-Category: high_quality
-Language: en

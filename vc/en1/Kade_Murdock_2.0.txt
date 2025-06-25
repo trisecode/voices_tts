@@ -1,6 +1,0 @@
-Name: Kade Murdock 2.0
-Accent: american
-Gender: female
-Age: young
-Category: professional
-Language: en

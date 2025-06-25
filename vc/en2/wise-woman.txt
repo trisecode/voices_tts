@@ -1,6 +1,0 @@
-Name: wise-woman
-Accent: african
-Gender: female
-Age: old
-Category: generated
-Language: 

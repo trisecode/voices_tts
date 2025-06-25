@@ -1,6 +1,0 @@
-Name: Christopher - Immersive
-Accent: british
-Gender: male
-Age: young
-Category: generated
-Language: 

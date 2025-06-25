@@ -1,6 +1,0 @@
-Name: Papai Noel 
-Accent: brazilian
-Gender: male
-Age: old
-Category: professional
-Language: pt

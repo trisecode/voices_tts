@@ -1,6 +1,0 @@
-Name: Kathleen Julie - alto, serious, articulate, focused and direct
-Accent: american
-Gender: female
-Age: middle_aged
-Category: professional
-Language: en

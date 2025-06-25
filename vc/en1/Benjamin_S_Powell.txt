@@ -1,6 +1,0 @@
-Name: Benjamin S Powell
-Accent: australian
-Gender: male
-Age: young
-Category: professional
-Language: en

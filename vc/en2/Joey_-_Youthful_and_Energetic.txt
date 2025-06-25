@@ -1,6 +1,0 @@
-Name: Joey - Youthful and Energetic
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

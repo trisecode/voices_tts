@@ -1,6 +1,0 @@
-Name: Cally - Young and Sweet
-Accent: african
-Gender: female
-Age: young
-Category: generated
-Language: 

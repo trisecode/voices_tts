@@ -1,6 +1,0 @@
-Name: Alden - Resolute Gravitas
-Accent: british
-Gender: male
-Age: old
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Marco- hot male voice
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Ivan
-Accent: zagreb
-Gender: male
-Age: young
-Category: professional
-Language: hr

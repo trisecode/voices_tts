@@ -1,6 +1,0 @@
-Name: Marianne - Narrative Friendly British 
-Accent: british
-Gender: female
-Age: middle_aged
-Category: generated
-Language: 

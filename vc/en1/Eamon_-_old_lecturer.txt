@@ -1,6 +1,0 @@
-Name: Eamon - old lecturer
-Accent: american
-Gender: male
-Age: old
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Nicolas animateur 
-Accent: 
-Gender: male
-Age: young
-Category: professional
-Language: fr

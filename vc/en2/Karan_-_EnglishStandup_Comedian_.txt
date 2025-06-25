@@ -1,6 +1,0 @@
-Name: Karan - EnglishStandup Comedian 
-Accent: indian
-Gender: male
-Age: young
-Category: generated
-Language: 

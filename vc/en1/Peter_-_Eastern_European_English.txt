@@ -1,6 +1,0 @@
-Name: Peter - Eastern European English
-Accent: Eastern European
-Gender: male
-Age: young
-Category: professional
-Language: en

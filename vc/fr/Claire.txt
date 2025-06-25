@@ -1,6 +1,0 @@
-Name: Claire
-Accent: standard
-Gender: female
-Age: middle_aged
-Category: professional
-Language: fr

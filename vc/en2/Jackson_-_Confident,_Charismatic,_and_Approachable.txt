@@ -1,6 +1,0 @@
-Name: Jackson - Confident, Charismatic, and Approachable
-Accent: american
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

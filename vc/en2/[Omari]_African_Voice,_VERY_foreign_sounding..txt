@@ -1,6 +1,0 @@
-Name: [Omari] African Voice, VERY foreign sounding.
-Accent: african
-Gender: male
-Age: old
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Simba
-Accent: nigerian
-Gender: male
-Age: old
-Category: generated
-Language: 

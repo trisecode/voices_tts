@@ -1,6 +1,0 @@
-Name: Felix - Soft, Deep, German Narration Voice
-Accent: standard
-Gender: male
-Age: young
-Category: professional
-Language: de

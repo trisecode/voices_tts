@@ -1,6 +1,0 @@
-Name: Vivian
-Accent: australian
-Gender: female
-Age: young
-Category: professional
-Language: en

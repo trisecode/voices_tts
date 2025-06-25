@@ -1,6 +1,0 @@
-Name: Gozde Arikan
-Accent: standard
-Gender: female
-Age: young
-Category: professional
-Language: tr

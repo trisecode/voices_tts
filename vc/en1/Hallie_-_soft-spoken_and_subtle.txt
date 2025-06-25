@@ -1,6 +1,0 @@
-Name: Hallie - soft-spoken and subtle
-Accent: british
-Gender: female
-Age: middle_aged
-Category: generated
-Language: en

@@ -1,6 +1,0 @@
-Name: Ralf Eisend
-Accent: german
-Gender: male
-Age: old
-Category: professional
-Language: en

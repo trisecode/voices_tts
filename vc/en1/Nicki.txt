@@ -1,6 +1,0 @@
-Name: Nicki
-Accent: british
-Gender: female
-Age: middle_aged
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Zephlyn
-Accent: balinese
-Gender: male
-Age: young
-Category: professional
-Language: id

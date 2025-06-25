@@ -1,6 +1,0 @@
-Name: Old Osirion Woman - Timeless, Mystical, Nurturing
-Accent: nigerian
-Gender: female
-Age: old
-Category: generated
-Language: 

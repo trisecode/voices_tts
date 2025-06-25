@@ -1,6 +1,0 @@
-Name: Adriano - 44
-Accent: portuguese
-Gender: male
-Age: old
-Category: generated
-Language: 

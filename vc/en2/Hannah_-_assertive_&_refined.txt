@@ -1,6 +1,0 @@
-Name: Hannah - assertive & refined
-Accent: american
-Gender: female
-Age: young
-Category: generated
-Language: 

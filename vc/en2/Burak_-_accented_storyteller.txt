@@ -1,6 +1,0 @@
-Name: Burak - accented storyteller
-Accent: turkish
-Gender: male
-Age: young
-Category: professional
-Language: en

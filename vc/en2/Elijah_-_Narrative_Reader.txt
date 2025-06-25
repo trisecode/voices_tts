@@ -1,6 +1,0 @@
-Name: Elijah - Narrative Reader
-Accent: british
-Gender: male
-Age: young
-Category: generated
-Language: 

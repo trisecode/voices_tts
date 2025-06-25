@@ -1,6 +1,0 @@
-Name: Aurion - Wise Narrator
-Accent: jamaican
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

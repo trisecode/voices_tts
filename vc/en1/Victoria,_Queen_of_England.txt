@@ -1,6 +1,0 @@
-Name: Victoria, Queen of England
-Accent: british
-Gender: female
-Age: old
-Category: generated
-Language: 

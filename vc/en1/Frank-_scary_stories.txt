@@ -1,6 +1,0 @@
-Name: Frank- scary stories
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

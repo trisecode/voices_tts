@@ -1,6 +1,0 @@
-Name: Von - Perfect Storytelling [Clean, Realistic]
-Accent: american
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

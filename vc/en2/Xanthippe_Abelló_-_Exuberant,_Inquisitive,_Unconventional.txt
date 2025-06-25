@@ -1,6 +1,0 @@
-Name: Xanthippe Abelló - Exuberant, Inquisitive, Unconventional
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

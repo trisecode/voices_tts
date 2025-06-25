@@ -1,6 +1,0 @@
-Name: Jannice
-Accent: american
-Gender: neutral
-Age: middle_aged
-Category: generated
-Language: 

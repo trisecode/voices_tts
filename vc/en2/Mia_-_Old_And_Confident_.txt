@@ -1,6 +1,0 @@
-Name: Mia - Old And Confident 
-Accent: american
-Gender: female
-Age: old
-Category: generated
-Language: 

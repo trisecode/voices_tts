@@ -1,6 +1,0 @@
-Name: Jenny
-Accent: british
-Gender: female
-Age: old
-Category: generated
-Language: 

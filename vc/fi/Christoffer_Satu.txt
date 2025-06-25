@@ -1,6 +1,0 @@
-Name: Christoffer Satu
-Accent: standard
-Gender: male
-Age: middle_aged
-Category: high_quality
-Language: fi

@@ -1,6 +1,0 @@
-Name: David - Gentle, Engaging, Soothing
-Accent: british
-Gender: male
-Age: old
-Category: generated
-Language: 

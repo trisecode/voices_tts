@@ -1,6 +1,0 @@
-Name: Jose Feliciano Voice Clone
-Accent: american
-Gender: male
-Age: old
-Category: professional
-Language: en

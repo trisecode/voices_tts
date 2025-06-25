@@ -1,6 +1,0 @@
-Name: Winston - Distinguished, Erudite and Genteel
-Accent: british
-Gender: male
-Age: old
-Category: generated
-Language: 

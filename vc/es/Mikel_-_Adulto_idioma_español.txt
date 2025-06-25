@@ -1,6 +1,0 @@
-Nombre: Mikel - Adulto (idioma español)
-Acento: 
-Género: male
-Edad: middle_aged
-Categoría: professional
-Idioma: es

@@ -1,6 +1,0 @@
-Name: Adrien Piret
-Accent: belgian
-Gender: male
-Age: middle_aged
-Category: professional
-Language: fr

@@ -1,6 +1,0 @@
-Name: Hector - Deep, Narrative
-Accent: american
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

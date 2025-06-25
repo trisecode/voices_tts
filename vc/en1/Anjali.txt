@@ -1,6 +1,0 @@
-Name: Anjali
-Accent: indian
-Gender: female
-Age: young
-Category: generated
-Language: 

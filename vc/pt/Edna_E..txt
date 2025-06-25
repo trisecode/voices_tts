@@ -1,6 +1,0 @@
-Name: Edna E.
-Accent: brazilian
-Gender: female
-Age: old
-Category: professional
-Language: pt

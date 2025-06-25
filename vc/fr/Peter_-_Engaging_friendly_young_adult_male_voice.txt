@@ -1,6 +1,0 @@
-Name: Peter - Engaging, friendly young adult male voice
-Accent: swiss
-Gender: male
-Age: young
-Category: high_quality
-Language: fr

@@ -1,6 +1,0 @@
-Name: Emma - A brilliant young magician
-Accent: british
-Gender: female
-Age: young
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Godfrey a National Treasure
-Accent: british
-Gender: male
-Age: old
-Category: generated
-Language: 

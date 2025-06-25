@@ -1,6 +1,0 @@
-Name: Louis Boutin
-Accent: quebec
-Gender: male
-Age: young
-Category: high_quality
-Language: fr

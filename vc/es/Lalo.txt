@@ -1,6 +1,0 @@
-Nombre: Lalo
-Acento: argentine
-Género: male
-Edad: middle_aged
-Categoría: professional
-Idioma: es

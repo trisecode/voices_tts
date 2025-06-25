@@ -1,6 +1,0 @@
-Name: Luke, old and deep
-Accent: british
-Gender: male
-Age: old
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Linus - A young American tech video narrator
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

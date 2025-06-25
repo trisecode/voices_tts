@@ -1,6 +1,0 @@
-Name: Alice - calm & composed
-Accent: american
-Gender: female
-Age: old
-Category: generated
-Language: 

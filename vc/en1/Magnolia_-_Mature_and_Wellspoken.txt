@@ -1,6 +1,0 @@
-Name: Magnolia - Mature and Wellspoken
-Accent: african
-Gender: female
-Age: middle_aged
-Category: generated
-Language: 

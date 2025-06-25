@@ -1,6 +1,0 @@
-Name: Temos Sevandivasen - Resolute, Philosophical, Empathetic
-Accent: american
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

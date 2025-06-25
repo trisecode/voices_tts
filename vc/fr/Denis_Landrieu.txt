@@ -1,6 +1,0 @@
-Name: Denis Landrieu
-Accent: parisian
-Gender: male
-Age: middle_aged
-Category: professional
-Language: fr

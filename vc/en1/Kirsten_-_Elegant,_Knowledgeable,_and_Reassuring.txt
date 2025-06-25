@@ -1,6 +1,0 @@
-Name: Kirsten - Elegant, Knowledgeable, and Reassuring
-Accent: british
-Gender: female
-Age: old
-Category: generated
-Language: 

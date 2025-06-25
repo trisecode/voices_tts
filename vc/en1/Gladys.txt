@@ -1,6 +1,0 @@
-Name: Gladys
-Accent: american
-Gender: female
-Age: old
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Jason Jordan
-Accent: australian
-Gender: male
-Age: middle_aged
-Category: professional
-Language: en

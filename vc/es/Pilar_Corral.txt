@@ -1,6 +1,0 @@
-Nombre: Pilar Corral
-Acento: peninsular
-Género: female
-Edad: middle_aged
-Categoría: professional
-Idioma: es

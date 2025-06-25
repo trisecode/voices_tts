@@ -1,6 +1,0 @@
-Name: Demeter - expressive and sincere mother
-Accent: american
-Gender: female
-Age: middle_aged
-Category: generated
-Language: 

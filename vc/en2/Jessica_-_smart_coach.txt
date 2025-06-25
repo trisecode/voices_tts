@@ -1,6 +1,0 @@
-Name: Jessica - smart coach
-Accent: american
-Gender: female
-Age: young
-Category: generated
-Language: 

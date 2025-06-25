@@ -1,6 +1,0 @@
-Name: Jack- Raspy & deep
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

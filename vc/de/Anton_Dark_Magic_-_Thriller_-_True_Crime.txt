@@ -1,6 +1,0 @@
-Name: Anton: Dark Magic - Thriller - True Crime
-Accent: standard
-Gender: male
-Age: middle_aged
-Category: high_quality
-Language: de

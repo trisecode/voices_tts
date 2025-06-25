@@ -1,6 +1,0 @@
-Name: Slany
-Accent: brazilian
-Gender: female
-Age: young
-Category: professional
-Language: pt

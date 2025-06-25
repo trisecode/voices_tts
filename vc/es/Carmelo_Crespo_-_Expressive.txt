@@ -1,6 +1,0 @@
-Nombre: Carmelo Crespo - Expressive
-Acento: peninsular
-Género: male
-Edad: middle_aged
-Categoría: professional
-Idioma: es

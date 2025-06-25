@@ -1,6 +1,0 @@
-Name: Okole
-Accent: african
-Gender: male
-Age: old
-Category: generated
-Language: 

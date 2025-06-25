@@ -1,6 +1,0 @@
-Name: Sasha - Soothing and Chill
-Accent: american
-Gender: female
-Age: young
-Category: generated
-Language: 

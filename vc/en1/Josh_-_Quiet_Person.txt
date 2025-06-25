@@ -1,6 +1,0 @@
-Name: Josh - Quiet Person
-Accent: american
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

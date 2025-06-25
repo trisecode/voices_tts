@@ -1,6 +1,0 @@
-Name: Jalia - soothing female voice
-Accent: african
-Gender: female
-Age: middle_aged
-Category: generated
-Language: 

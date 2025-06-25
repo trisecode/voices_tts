@@ -1,6 +1,0 @@
-Name: Marques - Young and Wary
-Accent: african
-Gender: male
-Age: young
-Category: generated
-Language: 

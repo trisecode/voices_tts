@@ -1,6 +1,0 @@
-Name: 2B Impression
-Accent: american
-Gender: female
-Age: young
-Category: generated
-Language: 

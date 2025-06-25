@@ -1,6 +1,0 @@
-Name: Emily - relaxed and conversational
-Accent: american
-Gender: neutral
-Age: middle_aged
-Category: generated
-Language: 

@@ -1,6 +1,0 @@
-Name: Charles - Deep Hoarseness Voice
-Accent: american
-Gender: male
-Age: old
-Category: generated
-Language: 

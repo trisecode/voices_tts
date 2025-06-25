@@ -1,6 +1,0 @@
-Name: Danny - highschool jock(ish)
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

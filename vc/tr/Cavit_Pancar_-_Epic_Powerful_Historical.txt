@@ -1,6 +1,0 @@
-Name: Cavit Pancar - Epic, Powerful, Historical
-Accent: istanbul
-Gender: male
-Age: middle_aged
-Category: high_quality
-Language: tr

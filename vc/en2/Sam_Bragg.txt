@@ -1,6 +1,0 @@
-Name: Sam Bragg
-Accent: american
-Gender: male
-Age: young
-Category: professional
-Language: 

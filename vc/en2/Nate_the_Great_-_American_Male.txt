@@ -1,6 +1,0 @@
-Name: Nate the Great - American Male
-Accent: american
-Gender: male
-Age: young
-Category: professional
-Language: en

@@ -1,6 +1,0 @@
-Name: Amritanshu Professional voice
-Accent: indian
-Gender: male
-Age: 
-Category: professional
-Language: en

@@ -1,6 +1,0 @@
-Name: Benjamin - strong and confident
-Accent: american
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

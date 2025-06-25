@@ -1,6 +1,0 @@
-Name: Sarcini - Snarky, Quick-witted, Unapologetic
-Accent: american
-Gender: female
-Age: middle_aged
-Category: generated
-Language: 

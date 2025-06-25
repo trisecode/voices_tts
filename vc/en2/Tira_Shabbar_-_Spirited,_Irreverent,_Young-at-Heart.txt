@@ -1,6 +1,0 @@
-Name: Tira Shabbar - Spirited, Irreverent, Young-at-Heart
-Accent: australian
-Gender: female
-Age: old
-Category: generated
-Language: 

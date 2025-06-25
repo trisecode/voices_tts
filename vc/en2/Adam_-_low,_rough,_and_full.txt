@@ -1,6 +1,0 @@
-Name: Adam - low, rough, and full
-Accent: american
-Gender: male
-Age: young
-Category: generated
-Language: 

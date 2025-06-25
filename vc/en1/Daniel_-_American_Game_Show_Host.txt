@@ -1,6 +1,0 @@
-Name: Daniel - American Game Show Host
-Accent: american
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

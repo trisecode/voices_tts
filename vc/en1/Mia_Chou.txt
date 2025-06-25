@@ -1,6 +1,0 @@
-Name: Mia Chou
-Accent: american
-Gender: female
-Age: young
-Category: professional
-Language: en

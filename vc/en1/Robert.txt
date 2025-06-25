@@ -1,6 +1,0 @@
-Name: Robert
-Accent: british
-Gender: male
-Age: old
-Category: generated
-Language: 

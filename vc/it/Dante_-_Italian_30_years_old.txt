@@ -1,6 +1,0 @@
-Name: Dante - Italian, 30 years old
-Accent: standard
-Gender: male
-Age: young
-Category: professional
-Language: it

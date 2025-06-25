@@ -1,6 +1,0 @@
-Name: Christian - Danish calm voice
-Accent: standard
-Gender: male
-Age: young
-Category: professional
-Language: da

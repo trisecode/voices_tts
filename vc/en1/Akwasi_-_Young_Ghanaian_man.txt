@@ -1,6 +1,0 @@
-Name: Akwasi - Young Ghanaian man
-Accent: british
-Gender: male
-Age: young
-Category: generated
-Language: 

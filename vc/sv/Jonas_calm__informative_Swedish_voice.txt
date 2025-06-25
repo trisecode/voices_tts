@@ -1,6 +1,0 @@
-Name: Jonas, calm & informative Swedish voice
-Accent: 
-Gender: male
-Age: middle_aged
-Category: high_quality
-Language: sv

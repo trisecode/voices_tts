@@ -1,6 +1,0 @@
-Name: Delegate - Bright and Airy
-Accent: african
-Gender: female
-Age: young
-Category: generated
-Language: 

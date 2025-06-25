@@ -1,6 +1,0 @@
-Name: Julia - soft and shy
-Accent: australian
-Gender: female
-Age: young
-Category: generated
-Language: 

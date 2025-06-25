@@ -1,6 +1,0 @@
-Name: Neal - Perfect for documentaries
-Accent: american
-Gender: male
-Age: old
-Category: generated
-Language: 

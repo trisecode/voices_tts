@@ -1,6 +1,0 @@
-Name: Graham - Old and Wise
-Accent: american
-Gender: male
-Age: old
-Category: generated
-Language: 

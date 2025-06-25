@@ -1,6 +1,0 @@
-Name: Donald - American, 70 years old
-Accent: american
-Gender: male
-Age: old
-Category: generated
-Language: 

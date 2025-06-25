@@ -1,6 +1,0 @@
-Name: Jami - Mature and Clear
-Accent: african
-Gender: male
-Age: middle_aged
-Category: generated
-Language: 

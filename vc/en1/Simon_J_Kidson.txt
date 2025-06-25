@@ -1,6 +1,0 @@
-Name: Simon J Kidson
-Accent: british
-Gender: male
-Age: old
-Category: professional
-Language: 
